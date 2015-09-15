@@ -1,5 +1,6 @@
 all: head.html body.md footer.html
 	markdown body.md > body.html
+	cat body.md > README.md
 	cat head.html body.html footer.html > index.html
 
 sync: all
