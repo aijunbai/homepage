@@ -14,7 +14,5 @@ clean:
 	cd ${workspace}/research-statement; make clean
 
 sync: all
-	scp -r AijunBai-CV.pdf AijunBai-RS.pdf \
-		favicon.ico images index.html \
-		publications style.css ec2:~/Public/
+	rsync -avz ./ ec2:~/Public/
 
