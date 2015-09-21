@@ -97,7 +97,7 @@ _8th Annual Symposium on Combinatorial Search (SoCS 2015), 2015._
 ## Projects
 
 * **Metareasoning Approach for Real-Time Online Planning**, UC Berkeley, 2015. 
-* **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015. [[github](https://github.com/aijunbai/user-modelling)]
+* **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
 * **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)][[github](https://github.com/aijunbai/wrighteaglebase)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
