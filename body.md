@@ -102,7 +102,5 @@ _8th Annual Symposium on Combinatorial Search (SoCS 2015), 2015._
 * **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)][[github](https://github.com/aijunbai/wrighteaglebase)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
 * **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012. [[github](https://github.com/aijunbai/maxq-op)]
-* **Neural Network Digit Distinguishing**, USTC, 2008. [[github](https://github.com/aijunbai/digit-distinguishing)]
-* **SkipOOMiniJOOL Compiler Front End**, USTC, 2007. [[github](https://github.com/aijunbai/skipoominijool)]
 * **Reversi Game**, USTC, 2006. [[sourceforge](http://sourceforge.net/projects/reversigame/)][[github](https://github.com/aijunbai/reversi)]
 
