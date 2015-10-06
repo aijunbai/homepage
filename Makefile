@@ -2,7 +2,6 @@ workspace = /home/baj/Dropbox/Workspace/github/
 
 all: head.html body.md footer.html
 	cd ${workspace}/cv; make dist
-	cd ${workspace}/resume; make dist
 	cd ${workspace}/research-statement; make dist
 	cat body.md > README.md
 	markdown body.md > body.html
@@ -10,7 +9,6 @@ all: head.html body.md footer.html
 
 clean:
 	cd ${workspace}/cv; make clean
-	cd ${workspace}/resume; make clean
 	cd ${workspace}/research-statement; make clean
 
 sync: all
