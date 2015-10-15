@@ -12,5 +12,6 @@ clean:
 	cd ${workspace}/research-statement; make clean
 
 sync: all
-	rsync -avz ./ ec2:~/Public/
-
+	git add .
+	git commit -m "updated"
+	git push
