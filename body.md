@@ -15,12 +15,14 @@ Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hier
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
 ## Publications
 
+*   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, Stuart Russell, and Richard Doan,  
+_Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI 2016)._ (accepted)
 *   **Online planning for large Markov decision processes with hierarchical decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _ACM Transactions on Intelligent Systems and Technology (ACM TIST),6(4):45:1–45:28, July 2015._[[pdf](http://dl.acm.org/citation.cfm?id=2717316&CFID=710443251&CFTOKEN=41638354)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
-_Twenty-Fifth International Conference on Automated Planning and Scheduling (ICAPS 2015), 2015._ [[pdf](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS15/paper/view/10491/10422)]
+_Proceedings of the 25th International Conference on Automated Planning and Scheduling (ICAPS 2015), 2015._ [[pdf](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS15/paper/view/10491/10422)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces (abstract)**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
-_8th Annual Symposium on Combinatorial Search (SoCS 2015), 2015._
+_Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS 2015), 2015._
 *   **Intention-Aware Multi-Human Tracking for Human-Robot Interaction via Particle Filtering over Sets**, _Aijun Bai_, Reid Simmons, Manuela Veloso, and Xiaoping Chen,   
     _AAAI 2014 Fall Symposium: AI for Human-Robot Interaction (AI-HRI 2014), Arlington, Virginia, United States, November 2014._ [[pdf](https://www.aaai.org/ocs/index.php/FSS/FSS14/paper/viewFile/9111/9138)] [[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)] [[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)]
 *   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, _Aijun Bai_, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,   
