@@ -3,11 +3,11 @@
 ## Experience
 
 *   **University of California at Berkeley**, EECS, Berkeley, CA, United States, 2015.4 - present  
-Postdoc Researcher in [EECS](http://www.eecs.berkeley.edu/), working on metareasoning approach for real-time online planning, supervised by [Prof. Stuart Russell](https://www.cs.berkeley.edu/~russell/)
+Postdoc Researcher in [EECS](http://www.eecs.berkeley.edu/), working on hierarchical decision-making and reinforcement learning, supervised by [Prof. Stuart Russell](https://www.cs.berkeley.edu/~russell/)
 *   **Alibaba Inc.**, Taobao.com, Hangzhou, Zhejiang, China, 2014.12 - 2015.3  
-Algorithm Engineer, working on semi-Markov process based user behaviour modelling, supervised by Dr. Zhao Li
-*   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States, 2013.12 - 2014.10  
-Visiting Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working on particle filtering based multi-object tracking, supervised by [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid Simmons](http://www.cs.cmu.edu/~reids/)
+Algorithm Engineer, working on semi-Markov process based user behaviour modelling
+*   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States, 2013.12 - 2015.3  
+Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working on particle filtering based multi-object tracking, supervised by [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid Simmons](http://www.cs.cmu.edu/~reids/)
 *   **University of Science and Technology of China**, CSD, Hefei, Anhui, China, 2009.9 - 2014.11  
 Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hierarchical planning for large Markov decision process, supervised by [Prof. Xiaoping Chen](http://www.wrighteagle.org/en/people/xpchen.php)
 
@@ -98,7 +98,7 @@ _Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS 2015), 20
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
 ## Projects
 
-* **Metareasoning Approach for Real-Time Online Planning**, UC Berkeley, 2015. 
+* **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015. 
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
 * **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)][[github](https://github.com/aijunbai/wrighteaglebase)]
