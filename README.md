@@ -15,7 +15,7 @@ Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hier
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
 ## Publications
 
-*   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, Stuart Russell, and Richard Doan,  
+*   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, and Stuart Russell,  
 _Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI 2016)._ (accepted)
 *   **Online planning for large Markov decision processes with hierarchical decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _ACM Transactions on Intelligent Systems and Technology (ACM TIST),6(4):45:1–45:28, July 2015._[[pdf](http://dl.acm.org/citation.cfm?id=2717316&CFID=710443251&CFTOKEN=41638354)]
