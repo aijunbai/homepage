@@ -98,7 +98,7 @@ _Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS 2015), 20
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
 ## Projects
 
-* **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015. 
+* **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
 * **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)][[github](https://github.com/aijunbai/wrighteaglebase)]
