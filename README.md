@@ -16,28 +16,28 @@ Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hier
 ## Publications
 
 *   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, and Stuart Russell,  
-_Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI 2016)._ (accepted)
+_Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI), New York, 2016._ [[pdf](publications/IJCAI16-Bai.pdf)]
 *   **Online planning for large Markov decision processes with hierarchical decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _ACM Transactions on Intelligent Systems and Technology (ACM TIST),6(4):45:1–45:28, July 2015._[[pdf](http://dl.acm.org/citation.cfm?id=2717316&CFID=710443251&CFTOKEN=41638354)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
-_Proceedings of the 25th International Conference on Automated Planning and Scheduling (ICAPS 2015), 2015._ [[pdf](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS15/paper/view/10491/10422)]
+_Proceedings of the 25th International Conference on Automated Planning and Scheduling (ICAPS), 2015._ [[pdf](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS15/paper/view/10491/10422)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces (abstract)**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
-_Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS 2015), 2015._
+_Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS), 2015._
 *   **Intention-Aware Multi-Human Tracking for Human-Robot Interaction via Particle Filtering over Sets**, _Aijun Bai_, Reid Simmons, Manuela Veloso, and Xiaoping Chen,   
-    _AAAI 2014 Fall Symposium: AI for Human-Robot Interaction (AI-HRI 2014), Arlington, Virginia, United States, November 2014._ [[pdf](https://www.aaai.org/ocs/index.php/FSS/FSS14/paper/viewFile/9111/9138)] [[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)] [[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)]
+    _AAAI 2014 Fall Symposium: AI for Human-Robot Interaction (AI-HRI), Arlington, Virginia, United States, November 2014._ [[pdf](https://www.aaai.org/ocs/index.php/FSS/FSS14/paper/viewFile/9111/9138)] [[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)] [[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)]
 *   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, _Aijun Bai_, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,   
-    _Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS 2014), Portsmouth, New Hampshire, United States, June 2014._ [[pdf](http://eprints.soton.ac.uk/360985/1/full.pdf)] [[video](https://www.youtube.com/watch?v=U3YeaE3g45A)] [[slides](publications/ICAPS14-Bai_slides.pdf)]  
+    _Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS), Portsmouth, New Hampshire, United States, June 2014._ [[pdf](http://eprints.soton.ac.uk/360985/1/full.pdf)] [[video](https://www.youtube.com/watch?v=U3YeaE3g45A)] [[slides](publications/ICAPS14-Bai_slides.pdf)]  
 *   **Bayesian Mixture Modelling and Inference based Thompson Sampling in Monte-Carlo Tree Search**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,   
-    _Advances in Neural Information Processing Systems 26 (NIPS 2013), Lake Tahoe, Nevada, United States, December 2013._ [[pdf](publications/NIPS13-Bai.pdf)] [[poster](publications/NIPS13-Bai-poster.pdf)]
+    _Advances in Neural Information Processing Systems 26 (NIPS), Lake Tahoe, Nevada, United States, December 2013._ [[pdf](publications/NIPS13-Bai.pdf)] [[poster](publications/NIPS13-Bai-poster.pdf)]
 *   **An Intelligent Service System with Multiple Robots**, Qiang Lu, Guanghui Lu, _Aijun Bai_, Dongxiang Zhang, and Xiaoping Chen,   
-    _Robot Competition of International Joint Conference on Artificial Intelligence (IJCAI 2013), Beijing, China, 2013._ [[pdf](publications/IJCAI13-Lu.pdf)]
+    _Robot Competition of International Joint Conference on Artificial Intelligence (IJCAI), Beijing, China, 2013._ [[pdf](publications/IJCAI13-Lu.pdf)]
 *   **Towards a Principled Solution to Simulated Robot Soccer**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,   
     _RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in Artificial Intelligence, Vol. 7500, Springer Verlag, Berlin, 2013._ [[pdf](publications/LNAI12-Bai.pdf)] [[slides](publications/LNAI12-Bai_slides.pdf)]   
     **BEST PAPER AWARD NOMINEE** at RoboCup 2012 International Symposium.
 *   **Online Planning for Large MDPs with MAXQ Decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,   
-    _AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop (ARMS 2012), Valencia, Spain, June 2012._ [[pdf](publications/ARMS12-Bai.pdf)] 
+    _AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop (ARMS), Valencia, Spain, June 2012._ [[pdf](publications/ARMS12-Bai.pdf)] 
 *   **Online Planning for Large MDPs with MAXQ Decomposition** (Extended Abstract), _Aijun Bai_, Feng Wu, and Xiaoping Chen,   
-    _Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012), Valencia, Spain, June 2012._ [[pdf](publications/AAMAS12-Bai.pdf)] 
+    _Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Valencia, Spain, June 2012._ [[pdf](publications/AAMAS12-Bai.pdf)] 
 *   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League Champions**, _Aijun Bai_, Xiaoping Chen, Patrick MacAlpine, Daniel Urieli, Samuel Barrett, and Peter Stone,   
     _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligence, Vol. 7416, Springer Verlag, Berlin, 2012._ [[pdf](publications/LNAI11-Bai.pdf)]
 
