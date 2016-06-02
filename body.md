@@ -3,7 +3,7 @@
 ## Experience
 
 *   **University of California at Berkeley**, EECS, Berkeley, CA, United States, 2015.4 - present  
-Postdoc Researcher in [BAIR](http://bair.berkeley.edu/), working on hierarchical decision-making and reinforcement learning, supervised by [Prof. Stuart Russell](https://www.cs.berkeley.edu/~russell/)
+Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/), working on hierarchical decision-making and reinforcement learning, supervised by [Prof. Stuart Russell](https://www.cs.berkeley.edu/~russell/)
 *   **Alibaba Inc.**, Taobao.com, Hangzhou, Zhejiang, China, 2014.12 - 2015.3  
 Algorithm Engineer, working on semi-Markov process based user behaviour modelling
 *   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States, 2013.12 - 2015.3  
