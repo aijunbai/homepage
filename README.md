@@ -46,19 +46,19 @@ _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligen
 ## Honors and Awards
 
 *   Ali Star of Alibaba Inc., 2013.
-*   **World Champion** of RoboCup Soccer Simulation 2D Competition, Eindhoven, The Netherlands, Jul 2013. [[RoboCup 2013](http://www.robocup2013.org/)] [[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)]  
-*   **Champion** of RoboCup China Open Soccer Simulation 2D Competition, Hefei, China, Dec 2012. [[RoboCup China Open 2012](http://wrighteagle.org/rco/rco12/)]  
+*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Eindhoven, The Netherlands, Jul 2013. [[RoboCup 2013](http://www.robocup2013.org/)] [[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)]  
+*   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Hefei, China, Dec 2012. [[RoboCup China Open 2012](http://wrighteagle.org/rco/rco12/)]  
 *   **First Place** of RoboCup Soccer Simulation 2D Free Challenge, Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[pdf](publications/rc_2012_free_challenge.pdf)]  
-*   Second Place of RoboCup Soccer Simulation 2D Competition, Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)]  
-*   **Champion** of RoboCup China Open Soccer Simulation 2D Competition, Lanzhou, China, Aug 2011. [[RoboCup China Open 2011 (2D)](http://wrighteagle.org/rco/rco11/2d/results.html)]  
-*   **World Champion** of RoboCup Soccer Simulation 2D Competition, Istanbul, Turkey, Jul 2011. [[RoboCup 2011](http://www.robocup2011.org/)] [[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)]  
-*   **Champion** of RoboCup China Open Soccer Simulation 2D Competition, Ordos, China, Jul 2010. [[RoboCup China Open 2010 (2D)](http://wrighteagle.org/rco/rco10/2d/results.html)]  
-*   Second Place of RoboCup Soccer Simulation 2D Competition, Singapore, Singapore, Jun 2010. [[RoboCup 2010](http://www.robocup2010.org/)] [[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)]  
-*   **Champion** of RoboCup China Open Soccer Simulation 2D Competition, Dalian, China, Nov 2009. [[RoboCup China Open 2009 (2D)](http://wrighteagle.org/rco/rco09/2d/results.html)]  
-*   **World Champion** of RoboCup Soccer Simulation 2D Competition, Graz, Austria, Jun 2009. [[RoboCup 2009](http://www.robocup2009.org/)]  
-*   Second Place of RoboCup China Open Soccer Simulation 2D Competition, Zhongshan, China, Dec 2008. [[RoboCup China Open 2008](http://ai.ustc.edu.cn/rco/rco08/)]  
-*   Second Place of RoboCup Soccer Simulation 2D Competition, Suzhou, China, Jul 2008. [[RoboCup 2008](http://www.robocup-cn.org/)] [[video1)](https://www.youtube.com/watch?v=XDGJMBwF1Vs&list=PL4BB027D8BB6A5EB3&index=7)] [[video2](https://www.youtube.com/watch?v=w1c_8TWX8dY&index=6&list=PL4BB027D8BB6A5EB3)]  
-*   **Champion** of RoboCup China Open Soccer Simulation 2D Competition, Jinan, China, Oct 2007. [[RoboCup China Open 2007](http://ai.ustc.edu.cn/rco/rco07/)]
+*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)]  
+*   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Lanzhou, China, Aug 2011. [[RoboCup China Open 2011 (2D)](http://wrighteagle.org/rco/rco11/2d/results.html)]  
+*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Istanbul, Turkey, Jul 2011. [[RoboCup 2011](http://www.robocup2011.org/)] [[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)]  
+*   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Ordos, China, Jul 2010. [[RoboCup China Open 2010 (2D)](http://wrighteagle.org/rco/rco10/2d/results.html)]  
+*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Singapore, Singapore, Jun 2010. [[RoboCup 2010](http://www.robocup2010.org/)] [[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)]  
+*   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Dalian, China, Nov 2009. [[RoboCup China Open 2009 (2D)](http://wrighteagle.org/rco/rco09/2d/results.html)]  
+*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Graz, Austria, Jun 2009. [[RoboCup 2009](http://www.robocup2009.org/)]  
+*   Second Place of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Zhongshan, China, Dec 2008. [[RoboCup China Open 2008](http://ai.ustc.edu.cn/rco/rco08/)]  
+*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Suzhou, China, Jul 2008. [[RoboCup 2008](http://www.robocup-cn.org/)] [[video1)](https://www.youtube.com/watch?v=XDGJMBwF1Vs&list=PL4BB027D8BB6A5EB3&index=7)] [[video2](https://www.youtube.com/watch?v=w1c_8TWX8dY&index=6&list=PL4BB027D8BB6A5EB3)]  
+*   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Jinan, China, Oct 2007. [[RoboCup China Open 2007](http://ai.ustc.edu.cn/rco/rco07/)]
 
 <br />
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
