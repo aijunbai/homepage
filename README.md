@@ -101,7 +101,7 @@ _WrightEagle Soccer Simulation 2D Training Course 2007, Dec 2007._ [[pdf](public
 * **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
-* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/aijunbai/wrighteaglebase)] [[backup](http://aijunbai.github.io/wrighteaglebase/)]
+* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2013. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/aijunbai/wrighteaglebase)] [[backup](wrighteagle2d/index.html)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
 * **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012. [[github](https://github.com/aijunbai/maxq-op)]
 * **Reversi Game**, USTC, 2006. [[sourceforge](http://sourceforge.net/projects/reversigame/)] [[github](https://github.com/aijunbai/reversi)]
