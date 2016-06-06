@@ -18,7 +18,7 @@ Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hier
 *   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, and Stuart Russell,  
 _Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI), New York, 2016._ [[pdf](publications/IJCAI16-Bai.pdf)] [[code](https://github.com/aijunbai/hplanning)]
 *   **Online planning for large Markov decision processes with hierarchical decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
-_ACM Transactions on Intelligent Systems and Technology (ACM TIST),6(4):45:1–45:28, July 2015._ [[pdf](publications/BWCtist15.pdf)]
+_ACM Transactions on Intelligent Systems and Technology (ACM TIST),6(4):45:1–45:28, July 2015._ [[pdf](publications/BWCtist15.pdf)] [[sup](publications/TIST0604-45-APP.pdf)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
 _Proceedings of the 25th International Conference on Automated Planning and Scheduling (ICAPS), 2015._ [[pdf](publications/10491-46208-1-PB.pdf)]
 *   **Please: Palm leaf search for POMDPs with large observation spaces (abstract)**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and _Aijun Bai_,  
@@ -26,13 +26,13 @@ _Proceedings of the 8th Annual Symposium on Combinatorial Search (SoCS), 2015._
 *   **Intention-Aware Multi-Human Tracking for Human-Robot Interaction via Particle Filtering over Sets**, _Aijun Bai_, Reid Simmons, Manuela Veloso, and Xiaoping Chen,  
 _AAAI 2014 Fall Symposium: AI for Human-Robot Interaction (AI-HRI), Arlington, Virginia, United States, November 2014._ [[pdf](publications/9111-40050-1-PB.pdf)] [[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)] [[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)] [[code](https://github.com/aijunbai/pfs)]
 *   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, _Aijun Bai_, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,  
-_Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS), Portsmouth, New Hampshire, United States, June 2014._ [[pdf](publications/7800-36984-1-PB.pdf)] [[video](https://www.youtube.com/watch?v=U3YeaE3g45A)] [[slides](publications/ICAPS14-Bai_slides.pdf)] [[code](https://github.com/aijunbai/thompson-sampling)]
+_Proceedings of the 24th International Conference on Automated Planning and Scheduling (ICAPS), Portsmouth, New Hampshire, United States, June 2014._ [[pdf](publications/7800-36984-1-PB.pdf)] [[video](https://www.youtube.com/watch?v=U3YeaE3g45A)] [[slide](publications/ICAPS14-Bai_slides.pdf)] [[code](https://github.com/aijunbai/thompson-sampling)]
 *   **Bayesian Mixture Modelling and Inference based Thompson Sampling in Monte-Carlo Tree Search**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _Advances in Neural Information Processing Systems 26 (NIPS), Lake Tahoe, Nevada, United States, December 2013._ [[pdf](publications/NIPS13-Bai.pdf)] [[poster](publications/NIPS13-Bai-poster.pdf)] [[code](https://github.com/aijunbai/thompson-sampling)]
 *   **An Intelligent Service System with Multiple Robots**, Qiang Lu, Guanghui Lu, _Aijun Bai_, Dongxiang Zhang, and Xiaoping Chen,  
 _Robot Competition of International Joint Conference on Artificial Intelligence (IJCAI), Beijing, China, 2013._ [[pdf](publications/IJCAI13-Lu.pdf)]
 *   **Towards a Principled Solution to Simulated Robot Soccer**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
-_RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in Artificial Intelligence, Vol. 7500, Springer Verlag, Berlin, 2013._ [[pdf](publications/LNAI12-Bai.pdf)] [[slides](publications/LNAI12-Bai_slides.pdf)]  
+_RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in Artificial Intelligence, Vol. 7500, Springer Verlag, Berlin, 2013._ [[pdf](publications/LNAI12-Bai.pdf)] [[slide](publications/LNAI12-Bai_slides.pdf)]  
 **BEST PAPER AWARD NOMINEE** at RoboCup 2012 International Symposium.
 *   **Online Planning for Large MDPs with MAXQ Decomposition**, _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop (ARMS), Valencia, Spain, June 2012._ [[pdf](publications/ARMS12-Bai.pdf)] [[code](https://github.com/aijunbai/maxq-op)]
