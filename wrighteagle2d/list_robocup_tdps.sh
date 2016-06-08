@@ -17,5 +17,7 @@ for filepath in `find "$ROOT" -maxdepth 1 -mindepth 1 -type d | sort -r`; do
     echo "    <LI><a href=\"$filepath/$file\">$file</a></LI>" >> $OUTPUT
   done
   echo "  </UL>" >> $OUTPUT
+  echo "  <br>" >> $OUTPUT
+  echo "  <br>" >> $OUTPUT
 done
 
