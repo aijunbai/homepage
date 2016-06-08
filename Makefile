@@ -6,7 +6,6 @@ all: header.html body.md footer.html
 	cat body.md > README.md
 	markdown body.md > body.html
 	cat header.html body.html footer.html > index.html
-	cd wrighteagle2d; ./list_all.sh
 
 clean:
 	cd ${workspace}/cv; make clean
