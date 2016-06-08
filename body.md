@@ -39,7 +39,7 @@ _AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop (ARMS), Valencia, 
 *   **Online Planning for Large MDPs with MAXQ Decomposition** (Extended Abstract), _Aijun Bai_, Feng Wu, and Xiaoping Chen,  
 _Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Valencia, Spain, June 2012._ [[pdf](publications/AAMAS12-Bai.pdf)] [[bib](publications/AAMAS12-Bai.bib)] [[code](https://github.com/aijunbai/maxq-op)]
 *   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League Champions**, _Aijun Bai_, Xiaoping Chen, Patrick MacAlpine, Daniel Urieli, Samuel Barrett, and Peter Stone,   
-_RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligence, Vol. 7416, Springer Verlag, Berlin, 2012._ [[pdf](publications/LNAI11-Bai.pdf)] [[bib](publications/LNAI11-Bai.bib)] [[code](https://github.com/aijunbai/wrighteaglebase)]
+_RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligence, Vol. 7416, Springer Verlag, Berlin, 2012._ [[pdf](publications/LNAI11-Bai.pdf)] [[bib](publications/LNAI11-Bai.bib)] [[code](https://github.com/wrighteagle2d/wrighteaglebase)]
 
 <br />
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
@@ -124,7 +124,7 @@ _Undergraduates Research Program of USTC, Oct 2007._ [[pdf](publications/conclud
 * **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
-* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/aijunbai/wrighteaglebase)] [[website](wrighteagle2d/index.html)]
+* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/wrighteagle2d/wrighteaglebase)] [[website](wrighteagle2d/index.html)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
 * **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012. [[github](https://github.com/aijunbai/maxq-op)]
 * **Reversi Game**, USTC, 2006. [[sourceforge](http://sourceforge.net/projects/reversigame/)] [[github](https://github.com/aijunbai/reversi)]
