@@ -124,7 +124,7 @@ _Undergraduates Research Program of USTC, Oct 2007._ [[pdf](publications/conclud
 * **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
-* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/wrighteagle2d/wrighteaglebase)] [[website](wrighteagle2d/index.html)]
+* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/wrighteagle2d/wrighteaglebase)] [[website](http://wrighteagle.org/2d/)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
 * **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012. [[github](https://github.com/aijunbai/maxq-op)]
 * **Reversi Game**, USTC, 2006. [[sourceforge](http://sourceforge.net/projects/reversigame/)] [[github](https://github.com/aijunbai/reversi)]
