@@ -46,14 +46,14 @@ _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligen
 ## Honors and Awards
 
 *   Ali Star of Alibaba Inc., 2013.
-*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Eindhoven, The Netherlands, Jul 2013. [[RoboCup 2013](http://www.robocup2013.org/)] [[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)]  
+*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Eindhoven, The Netherlands, Jul 2013. [[RoboCup 2013](http://www.robocup2013.org/)] [[poster](posters/poster13.pdf)] [[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)] 
 *   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Hefei, China, Dec 2012. [[RoboCup China Open 2012](http://wrighteagle.org/rco/rco12/)]  
-*   **First Place** of RoboCup Soccer Simulation 2D Free Challenge, Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[pdf](publications/rc_2012_free_challenge.pdf)]  
-*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)]  
+*   **First Place** of RoboCup Soccer Simulation 2D Free Challenge, Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[pdf](publications/rc_2012_free_challenge.pdf)] 
+*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Mexico City, Mexico, Jun 2012. [[RoboCup 2012](http://www.robocup2012.org/)] [[poster](posters/poster12.pdf)] [[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)] 
 *   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Lanzhou, China, Aug 2011. [[RoboCup China Open 2011 (2D)](http://wrighteagle.org/rco/rco11/2d/results.html)]  
-*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Istanbul, Turkey, Jul 2011. [[RoboCup 2011](http://www.robocup2011.org/)] [[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)]  
+*   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Istanbul, Turkey, Jul 2011. [[RoboCup 2011](http://www.robocup2011.org/)] [[poster](posters/poster11.pdf)] [[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)] 
 *   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Ordos, China, Jul 2010. [[RoboCup China Open 2010 (2D)](http://wrighteagle.org/rco/rco10/2d/results.html)]  
-*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Singapore, Singapore, Jun 2010. [[RoboCup 2010](http://www.robocup2010.org/)] [[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)]  
+*   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Singapore, Singapore, Jun 2010. [[RoboCup 2010](http://www.robocup2010.org/)] [[poster](posters/poster10.pdf)] [[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)] 
 *   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Dalian, China, Nov 2009. [[RoboCup China Open 2009 (2D)](http://wrighteagle.org/rco/rco09/2d/results.html)]  
 *   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Graz, Austria, Jun 2009. [[RoboCup 2009](http://www.robocup2009.org/)]  
 *   Second Place of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Zhongshan, China, Dec 2008. [[RoboCup China Open 2008](http://ai.ustc.edu.cn/rco/rco08/)]  
@@ -124,7 +124,7 @@ _Undergraduates Research Program of USTC, Oct 2007._ [[pdf](publications/conclud
 * **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
 * **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. [[github](https://github.com/aijunbai/pfs)]
-* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/aijunbai/wrighteaglebase)] [[backup](wrighteagle2d/index.html)]
+* **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014. [[launchpad](https://launchpad.net/wrighteaglebase)] [[github](https://github.com/aijunbai/wrighteaglebase)] [[website](wrighteagle2d/index.html)]
 * **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC, 2012 - 2013. [[github](https://github.com/aijunbai/thompson-sampling)]
 * **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012. [[github](https://github.com/aijunbai/maxq-op)]
 * **Reversi Game**, USTC, 2006. [[sourceforge](http://sourceforge.net/projects/reversigame/)] [[github](https://github.com/aijunbai/reversi)]
