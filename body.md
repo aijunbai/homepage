@@ -313,8 +313,8 @@ Projects
     \[[github](https://github.com/aijunbai/hplanning)\]
 -   **Semi-Markov Process based User Behavior Modelling**, Alibaba
     Inc, 2015.
--   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 -
-    2015. \[[github](https://github.com/aijunbai/pfs)\]
+-   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. 
+    \[[github](https://github.com/aijunbai/pfs)\]
 -   **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014.
     \[[launchpad](https://launchpad.net/wrighteaglebase)\]
     \[[github](https://github.com/wrighteagle2d/wrighteaglebase)\]
