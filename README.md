@@ -20,7 +20,7 @@ Experience
 -   **University of Science and Technology of China**, CSD, Hefei,
     Anhui, China, 2009.9 - 2014.11\
     Research Assistant in [WrightEagle](http://wrighteagle.org/2d/),
-    working on hierarchical planning for large Markov decision process,
+    working on hierarchical planning for large Markov decision processes,
     supervised by [Prof. Xiaoping
     Chen](http://www.wrighteagle.org/en/people/xpchen.php)
 
