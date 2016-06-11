@@ -1,6 +1,6 @@
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Experience
+# Experience
 
 *   **University of California at Berkeley**, EECS, Berkeley, CA, United States, 2015.4 - present  
 Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/), working on hierarchical decision-making and reinforcement learning, supervised by [Prof. Stuart Russell](https://www.cs.berkeley.edu/~russell/)
@@ -11,9 +11,9 @@ Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working on particle 
 *   **University of Science and Technology of China**, CSD, Hefei, Anhui, China, 2009.9 - 2014.11  
 Research Assistant in [WrightEagle](http://wrighteagle.org/2d/), working on hierarchical planning for large Markov decision process, supervised by [Prof. Xiaoping Chen](http://www.wrighteagle.org/en/people/xpchen.php)
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Publications
+# Publications
 
 *   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, Siddharth Srivastava, and Stuart Russell,  
 _Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI), New York, 2016._ [[pdf](publications/IJCAI16-Bai.pdf)] [[bib](publications/IJCAI16-Bai.bib)] [[code](https://github.com/aijunbai/hplanning)]
@@ -41,9 +41,9 @@ _Proceedings of the 11th International Conference on Autonomous Agents and Multi
 *   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League Champions**, _Aijun Bai_, Xiaoping Chen, Patrick MacAlpine, Daniel Urieli, Samuel Barrett, and Peter Stone,   
 _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligence, Vol. 7416, Springer Verlag, Berlin, 2012._ [[pdf](publications/LNAI11-Bai.pdf)] [[bib](publications/LNAI11-Bai.bib)] [[code](https://github.com/wrighteagle2d/wrighteaglebase)]
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Honors and Awards
+# Honors and Awards
 
 *   Ali Star of Alibaba Inc., 2013.
 *   **World Champion** of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Eindhoven, The Netherlands, Jul 2013. [[RoboCup 2013](http://www.robocup2013.org/)] [[poster](posters/poster13.pdf)] [[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)] 
@@ -60,9 +60,9 @@ _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligen
 *   Second Place of RoboCup [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Suzhou, China, Jul 2008. [[RoboCup 2008](http://www.robocup-cn.org/)] [[video1)](https://www.youtube.com/watch?v=XDGJMBwF1Vs&list=PL4BB027D8BB6A5EB3&index=7)] [[video2](https://www.youtube.com/watch?v=w1c_8TWX8dY&index=6&list=PL4BB027D8BB6A5EB3)]  
 *   **Champion** of RoboCup China Open [Soccer Simulation 2D Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League), Jinan, China, Oct 2007. [[RoboCup China Open 2007](http://ai.ustc.edu.cn/rco/rco07/)]
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Scholarships
+# Scholarships
 
 *   Early Researcher Support of ICAPS, 2014.
 *   Travel Award of NIPS Foundation, 2013.
@@ -73,9 +73,9 @@ _RoboCup-2011: Robot Soccer World Cup XV, Lecture Notes in Artificial Intelligen
 *   Outstanding Student Scholarship of USTC, 2006, 2007, 2008.
 *   Outstanding Freshman Scholarship of USTC, 2005.
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Technical Reports
+# Technical Reports
 
 *   **Markov Theory based Planning and Sensing under Uncertainty**, _Aijun Bai_,  
 _Ph.D. Thesis of USTC, Sep 2014._ [[pdf](publications/phd_thesis-Bai.pdf)] [[bib](publications/USTC-14.bib)] [[defense](talks/thesis_defense.pdf)]
@@ -90,9 +90,9 @@ _Bachelor Thesis of USTC, Jun 2009._ [[pdf](publications/bachelar_thesis-Bai.pdf
 *   **Applications of Some Intelligent Algorithms on Reversi Game**, _Aijun Bai_,  
 _Undergraduates Research Program of USTC, Oct 2007._ [[pdf](publications/concluding2007-Bai.pdf)]
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Talks
+# Talks
 
 *   **Building Intelligent Agents via Decision-Theoretic Planning**, _Aijun Bai_, _Apple, Apr 2016._ [[pdf](talks/apple.pdf)]
 *   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, _Aijun Bai_, _UC Berkeley, Mar 2016._ [[pdf](talks/berkeley2.pdf)]
@@ -117,9 +117,9 @@ _Undergraduates Research Program of USTC, Oct 2007._ [[pdf](publications/conclud
 *   **Introduction to Soccer Simulation 2D**, _Aijun Bai_, _USTC, Aug 2010._ [[pdf](talks/Introduction-to-Soccer-Simulation-2D-Bai.pdf)]
 *   **Introduction to GNU/Linux**, _Aijun Bai_, _USTC, Dec 2007._ [[pdf](talks/Introduce_to_Linux-Bai.pdf)]
 
-<br />
+<br>
 [<img align="right" border="0" alt="Top" src="images/top.gif" />](#top)
-## Projects
+# Projects
 
 * **Hierarchical Decision-Making and Reinforcement Learning**, UC Berkeley, 2015 - 2016. [[github](https://github.com/aijunbai/hplanning)]
 * **Semi-Markov Process based User Behavior Modelling**, Alibaba Inc, 2015.
