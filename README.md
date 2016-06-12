@@ -135,7 +135,6 @@ Honors and Awards
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Eindhoven, The Netherlands, Jul 2013. \[[RoboCup
     2013](http://www.robocup2013.org/)\]
-    \[[poster](posters/poster13.pdf)\]
     \[[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)\]
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
@@ -149,7 +148,6 @@ Honors and Awards
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Mexico City, Mexico, Jun 2012. \[[RoboCup
     2012](http://www.robocup2012.org/)\]
-    \[[poster](posters/poster12.pdf)\]
     \[[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)\]
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
@@ -159,7 +157,6 @@ Honors and Awards
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Istanbul, Turkey, Jul 2011. \[[RoboCup
     2011](http://www.robocup2011.org/)\]
-    \[[poster](posters/poster11.pdf)\]
     \[[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)\]
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
@@ -169,7 +166,6 @@ Honors and Awards
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Singapore, Singapore, Jun 2010. \[[RoboCup
     2010](http://www.robocup2010.org/)\]
-    \[[poster](posters/poster10.pdf)\]
     \[[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)\]
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
