@@ -1,6 +1,6 @@
 body {
    padding : 1cm 1cm 2cm 1cm;
-   font-size : 12px;
+   font-size : 13px;
    font-family : DejaVu Sans, DejaVu Serif, Lucida Serif, Lucida Sans, Verdana, Courier, helvetica, serif, sans-serif;
    background : white;
    padding: 3%; 
@@ -24,7 +24,7 @@ html {
 a {
   font-weight: bold;
   font-family: Verdana;
-  font-size: 12px;
+  font-size: 13px;
   color: blue;
   text-decoration: none;
 }
@@ -54,7 +54,7 @@ pre {
     white-space: pre;
     background-color: #233b5a;
     font-family : DejaVu Sans Mono, Monospace; 
-    font-size: 9pt;
+    font-size: 10pt;
 }
 
 p {
@@ -88,7 +88,7 @@ h3 {
 
 h4 {
      color:#d04b44;
-     font-size: 14px;
+     font-size: 16px;
      padding: 2px;
      margin-top: 5px;
 }
@@ -96,7 +96,7 @@ h4 {
 h5 {
      color: #7b7b5a;
      text-align: left;
-     font-size: 12px;
+     font-size: 14px;
 }
 
 strong em {
