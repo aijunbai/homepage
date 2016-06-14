@@ -39,38 +39,38 @@ Publications
     \[[code](https://github.com/aijunbai/hplanning)\]
 -   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
     *Computing Research Repository (CoRR), arXiv abs/1605.07960, 2016.* 
-    \[[pdf](publications/1605.07960v1.pdf)\]
-    \[[bib](publications/arXiv-16.bib)\]
+    \[[pdf](publications/CoRR16-Bai.pdf)\]
+    \[[bib](publications/CoRR16-Bai.bib)\]
     \[[code](https://github.com/aijunbai/pfs)\]
 -   **Online planning for large Markov decision processes with
     hierarchical decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
     *ACM Transactions on Intelligent Systems and Technology (ACM
     TIST),6(4):45:1–45:28, July 2015.*
-    \[[pdf](publications/BWCtist15.pdf)\]
-    \[[sup](publications/TIST0604-45-APP.pdf)\]
-    \[[bib](publications/BWCtist15.bib)\]
+    \[[pdf](publications/TIST15-Bai.pdf)\]
+    \[[appendix](publications/TIST15-Bai_app.pdf)\]
+    \[[bib](publications/TIST15-Bai.bib)\]
     \[[code](https://github.com/aijunbai/maxq-op)\]
 -   **Please: Palm leaf search for POMDPs with large observation
     spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
     *Aijun Bai*,\
     *Proceedings of the 25th International Conference on Automated
     Planning and Scheduling (ICAPS), 2015.*
-    \[[pdf](publications/10491-46208-1-PB.pdf)\]
-    \[[bib](publications/ICAPS-15.bib)\]
+    \[[pdf](publications/ICAPS15-Zhang.pdf)\]
+    \[[bib](publications/ICAPS15-Zhang.bib)\]
 -   **Please: Palm leaf search for POMDPs with large observation
     spaces (abstract)**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan
     Wei Lim, and *Aijun Bai*,\
     *Proceedings of the 8th Annual Symposium on Combinatorial Search
-    (SoCS), 2015.* \[[pdf](publications/10686-49444-1-PB.pdf)\]
-    \[[bib](publications/SoCS-15.bib)\]
+    (SoCS), 2015.* \[[pdf](publications/SoCS15-Zhang.pdf)\]
+    \[[bib](publications/SoCS15-Zhang.bib)\]
 -   **Intention-Aware Multi-Human Tracking for Human-Robot Interaction
     via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons,
     Manuela Veloso, and Xiaoping Chen,\
     *AAAI 2014 Fall Symposium: AI for Human-Robot Interaction (AI-HRI),
     Arlington, Virginia, United States, November 2014.*
-    \[[pdf](publications/9111-40050-1-PB.pdf)\]
-    \[[bib](publications/AAAI-14.bib)\]
+    \[[pdf](publications/AAAI14-Bai.pdf)\]
+    \[[bib](publications/AAAI14-Bai.bib)\]
     \[[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)\]
     \[[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)\]
     \[[code](https://github.com/aijunbai/pfs)\]
@@ -78,10 +78,10 @@ Publications
     Bai*, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,\
     *Proceedings of the 24th International Conference on Automated
     Planning and Scheduling (ICAPS), Portsmouth, New Hampshire, United
-    States, June 2014.* \[[pdf](publications/7800-36984-1-PB.pdf)\]
+    States, June 2014.* \[[pdf](publications/ICAPS14-Bai.pdf)\]
     \[[bib](publications/ICAPS14-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=U3YeaE3g45A)\]
-    \[[talk](talks/ICAPS14-Bai_slides.pdf)\]
+    \[[slides](slides/ICAPS14-Bai_slides.pdf)\]
     \[[code](https://github.com/aijunbai/thompson-sampling)\]
 -   **Bayesian Mixture Modelling and Inference based Thompson Sampling
     in Monte-Carlo Tree Search**, *Aijun Bai*, Feng Wu, and Xiaoping
@@ -90,20 +90,21 @@ Publications
     Tahoe, Nevada, United States, December 2013.*
     \[[pdf](publications/NIPS13-Bai.pdf)\]
     \[[bib](publications/NIPS13-Bai.bib)\]
-    \[[poster](publications/NIPS13-Bai-poster.pdf)\]
+    \[[poster](publications/NIPS13-Bai_poster.pdf)\]
     \[[code](https://github.com/aijunbai/thompson-sampling)\]
 -   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
     Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
     *Robot Competition of International Joint Conference on Artificial
     Intelligence (IJCAI), Beijing, China, 2013.*
     \[[pdf](publications/IJCAI13-Lu.pdf)\]
+    \[[bib](publications/IJCAI13-Lu.bib)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in
     Artificial Intelligence, Vol. 7500, Springer Verlag, Berlin, 2013.*
     \[[pdf](publications/LNAI12-Bai.pdf)\]
     \[[bib](publications/LNAI12-Bai.bib)\]
-    \[[talk](talks/LNAI12-Bai_slides.pdf)\]\
+    \[[slides](slides/LNAI12-Bai_slides.pdf)\]\
     **BEST PAPER AWARD NOMINEE** at RoboCup 2012
     International Symposium.
 -   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
@@ -148,7 +149,7 @@ Honors and Awards
 -   **First Place** of RoboCup Soccer Simulation 2D Free Challenge,
     Mexico City, Mexico, Jun 2012. \[[RoboCup
     2012](http://www.robocup2012.org/)\]
-    \[[pdf](publications/rc_2012_free_challenge.pdf)\]
+    \[[slides](slides/RoboCup12-Bai.pdf)\]
 -   Second Place of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Mexico City, Mexico, Jun 2012. \[[RoboCup
@@ -220,87 +221,87 @@ Technical Reports
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
-    \[[pdf](publications/phd_thesis-Bai.pdf)\]
-    \[[bib](publications/USTC-14.bib)\]
-    \[[defense](talks/thesis_defense.pdf)\]
+    \[[pdf](publications/USTC14-Bai.pdf)\]
+    \[[bib](publications/USTC14-Bai.bib)\]
+    \[[slides](slides/USTC14-Bai_slides.pdf)\]
 -   **Bridging the Gap between AI Planning and Simulation 2D: A
     DEC-POMDP Perspective**, Feng Wu, *Aijun Bai*, and Xiaoping Chen,\
     *Technical Report, University of Science and Technology of China,
-    Nov 2011* \[[pdf](publications/USTC-11.pdf)\]
+    Nov 2011* \[[pdf](publications/USTC11-Wu.pdf)\]
 -   **Report on RoboCup Federation Project “the Research Challenge”**,
     *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
     *The RoboCup Federation Project, Mar 2011.*
-    \[[pdf](publications/report_rcrc.pdf)\]
+    \[[pdf](publications/RoboCup11-Bai.pdf)\]
 -   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
     Simulation** , *Aijun Bai* and Yunfang Tai,\
     *National University Student Innovation Program, Jun 2009.*
-    \[[pdf](publications/concluding2009-Bai.pdf)\]
+    \[[pdf](publications/USTC09-Bai.pdf)\]
 -   **Research on MDP/POMDP Based Agent Planning**, *Aijun Bai*,\
     *Bachelor Thesis of USTC, Jun 2009.*
-    \[[pdf](publications/bachelar_thesis-Bai.pdf)\]
+    \[[pdf](publications/USTC09-Bai.pdf)\]
 -   **Applications of Some Intelligent Algorithms on Reversi Game**,
     *Aijun Bai*,\
     *Undergraduates Research Program of USTC, Oct 2007.*
-    \[[pdf](publications/concluding2007-Bai.pdf)\]
+    \[[pdf](publications/USTC07-Bai.pdf)\]
 
 \
 
 
 
-Talks
+Slides
 =====
 
 -   **Building Intelligent Agents via Decision-Theoretic Planning**,
-    *Aijun Bai*, *Apple, Apr 2016.* \[[pdf](talks/apple.pdf)\]
+    *Aijun Bai*, *Apple, Apr 2016.* \[[pdf](slides/Apple.pdf)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, *UC Berkeley, Mar 2016.*
-    \[[pdf](talks/berkeley2.pdf)\]
+    \[[pdf](slides/Berkeley2.pdf)\]
 -   **Planning under Uncertainty in RoboCup Soccer Simulation 2D**,
-    *Aijun Bai*, *UC Berkeley, Sep 2014.* \[[pdf](talks/berkeley.pdf)\]
+    *Aijun Bai*, *UC Berkeley, Sep 2014.* \[[pdf](slides/Berkeley.pdf)\]
 -   **Exploitation vs. Exploration**, *Aijun Bai*, *Alibaba, Dec 2014.*
-    \[[pdf](talks/alibaba2.pdf)\]
+    \[[pdf](slides/Alibaba2.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
-    *Aijun Bai*, *Alibaba, Dec 2014.* \[[pdf](talks/alibaba1.pdf)\]
+    *Aijun Bai*, *Alibaba, Dec 2014.* \[[pdf](slides/Alibaba1.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
-    *Aijun Bai*, *USTC, Oct 2014.* \[[pdf](talks/thesis_defense.pdf)\]
+    *Aijun Bai*, *USTC, Oct 2014.* \[[pdf](slides/USTC14-Bai_slides.pdf)\]
 -   **Introduction to WrightEagle RoboCup Soccer Simulation 2D Team**,
-    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](talks/cmu2.pdf)\]
+    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](slides/CMU2.pdf)\]
 -   **Multi-Human Tracking, and Path Learning by Following a Person**,
-    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](talks/cmu3.pdf)\]
+    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](slides/CMU3.pdf)\]
 -   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen, *ICAPS, Jun 2014.*
-    \[[pdf](talks/ICAPS14-Bai_slides.pdf)\]
+    \[[pdf](slides/ICAPS14-Bai_slides.pdf)\]
 -   **Particle Filtering over Sets**, *Aijun Bai*, *CMU, Mar 2014.*
-    \[[pdf](talks/cmu.pdf)\]
+    \[[pdf](slides/CMU.pdf)\]
 -   **Intention-Aware Multi-Human Tracking via Particle Filtering over
-    Sets**, *Aijun Bai*, *CMU, Mar 2014.* \[[pdf](talks/cmu4.pdf)\]
+    Sets**, *Aijun Bai*, *CMU, Mar 2014.* \[[pdf](slides/CMU4.pdf)\]
 -   **Integrated task and motion planning in belief space: A PNM/HPN
     approach**, *Aijun Bai*, *USTC, Nov 2013.*
-    \[[pdf](talks/ustc5.pdf)\]
+    \[[pdf](slides/USTC5.pdf)\]
 -   **Bayesian Mixture Modeling and Inference based Thompson Sampling in
     Monte-Carlo Tree Search**, *Aijun Bai*, *USTC, Oct 2013.*
-    \[[pdf](talks/ustc2.pdf)\]
+    \[[pdf](slides/USTC2.pdf)\]
 -   **MAXQ-OP Based Hierarchical Online Planning**, *Aijun Bai*, Feng
-    Wu, and Xiaoping Chen, *USTC, Apr 2013.* \[[pdf](talks/ustc4.pdf)\]
+    Wu, and Xiaoping Chen, *USTC, Apr 2013.* \[[pdf](slides/USTC4.pdf)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen, *RoboCup Symposium, Jun 2012.*
-    \[[pdf](publications/LNAI12-Bai_slides.pdf)\]
+    \[[pdf](slides/LNAI12-Bai_slides.pdf)\]
 -   **Belief States in WrightEagleBASE**, *Aijun Bai* and Xiaoping Chen,
     *RoboCup 2D Free Challenge, Jun 2012.*
-    \[[pdf](publications/rc_2012_free_challenge.pdf)\]
+    \[[pdf](slides/RoboCup12-Bai.pdf)\]
 -   **Reinforcement Learning with Human Feedback**, *Aijun Bai*, *USTC,
-    Nov 2011.* \[[pdf](talks/ustc6.pdf)\]
+    Nov 2011.* \[[pdf](slides/USTC6.pdf)\]
 -   **Hierarchical Reinforcement Learning**, *Aijun Bai*, *USTC,
-    Oct 2011.* \[[pdf](talks/ustc3.pdf)\]
+    Oct 2011.* \[[pdf](slides/USTC3.pdf)\]
 -   **Active Reinforcement Learning**, *Aijun Bai*, *USTC, Sep 2011.*
-    \[[pdf](talks/ustc1.pdf)\]
--   **Introduction to WrightEagleBASE**, *Aijun Bai*, *USTC, Aug 2010.*
-    \[[pdf](talks/Introduction-to-WrightEagleBASE-Bai.pdf)\]
--   **Introduction to Soccer Simulation 2D**, *Aijun Bai*, *USTC,
+    \[[pdf](slides/USTC1.pdf)\]
+-   **Introduction to WrightEagleBASE (in Chinese)**, *Aijun Bai*, *USTC, Aug 2010.*
+    \[[pdf](slides/Introduction-to-WrightEagleBASE-Bai.pdf)\]
+-   **Introduction to Soccer Simulation 2D (in Chinese)**, *Aijun Bai*, *USTC,
     Aug 2010.*
-    \[[pdf](talks/Introduction-to-Soccer-Simulation-2D-Bai.pdf)\]
--   **Introduction to GNU/Linux**, *Aijun Bai*, *USTC, Dec 2007.*
-    \[[pdf](talks/Introduce_to_Linux-Bai.pdf)\]
+    \[[pdf](slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf)\]
+-   **Introduction to GNU/Linux (in Chinese)**, *Aijun Bai*, *USTC, Dec 2007.*
+    \[[pdf](slides/Introduce_to_Linux-Bai.pdf)\]
 
 \
 
