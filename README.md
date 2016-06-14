@@ -37,6 +37,11 @@ Publications
     \[[pdf](publications/IJCAI16-Bai.pdf)\]
     \[[bib](publications/IJCAI16-Bai.bib)\]
     \[[code](https://github.com/aijunbai/hplanning)\]
+-   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
+    *Computing Research Repository (CoRR), arXiv abs/1605.07960, 2016.* 
+    \[[pdf](publications/1605.07960v1.pdf)\]
+    \[[bib](publications/arXiv-16.bib)\]
+    \[[code](https://github.com/aijunbai/pfs)\]
 -   **Online planning for large Markov decision processes with
     hierarchical decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
