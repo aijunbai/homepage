@@ -1,12 +1,13 @@
 workspace = /home/baj/Dropbox/Workspace/github/
 
-all: header.html README.md footer.html
+all: header.html body.md footer.html
 	cat publications/*.bib > publications.bib
 	cp publications.bib ${workspace}/cv
 	cd ${workspace}/cv; make dist
 	cd ${workspace}/research-statement; make dist
-	pandoc -f markdown -t html README.md > README.html
-	cat header.html README.html footer.html > index.html
+	pandoc -f markdown -t html body.md > body.html
+	cat header.html body.html footer.html > index.html
+	cat status.md body.md > README.md
 
 clean:
 	cd ${workspace}/cv; make clean
