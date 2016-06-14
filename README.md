@@ -30,6 +30,8 @@ Experience
 Publications
 ============
 
+<script src="http://bibbase.org/show?bib=http%3A%2F%2Faijunbai.github.io%2Fpublications%2Fpublications.bib&jsonp=1"></script>
+
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Proceedings of the 25th International Joint Conference on
