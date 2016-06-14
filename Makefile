@@ -16,5 +16,4 @@ sync: all
 	git add .
 	git commit -m "updated"
 	git push
-	linkchecker http://aijunbai.github.io/
 
