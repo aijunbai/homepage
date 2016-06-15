@@ -241,7 +241,7 @@ Technical Reports
 -   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
     Simulation** , *Aijun Bai* and Yunfang Tai,\
     *National University Student Innovation Program, Jun 2009.*
-    \[[pdf](publications/USTC09-Bai.pdf)\]
+    \[[pdf](publications/USTC09-BaiTai.pdf)\]
 -   **Research on MDP/POMDP Based Agent Planning**, *Aijun Bai*,\
     *Bachelor Thesis of USTC, Jun 2009.*
     \[[pdf](publications/USTC09-Bai.pdf)\]
