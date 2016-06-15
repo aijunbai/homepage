@@ -301,7 +301,7 @@ Slides
     Aug 2010.*
     \[[pdf](slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf)\]
 -   **Introduction to GNU/Linux (in Chinese)**, *Aijun Bai*, *USTC, Dec 2007.*
-    \[[pdf](slides/Introduce_to_Linux-Bai.pdf)\]
+    \[[pdf](slides/Introduce_to_LinuxBai.pdf)\]
 
 \
 
