@@ -129,7 +129,7 @@ Publications
 Technical Reports
 =================
 
--   **Markov Theory based Planning and Sensing under Uncertainty**,
+-   **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
     \[[pdf](publications/USTC14-Bai.pdf)\]
@@ -154,13 +154,13 @@ Technical Reports
     *The RoboCup Federation Project, Mar 2011.*
     \[[pdf](publications/RoboCup11-Bai.pdf)\]
 -   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
-    Simulation** , *Aijun Bai* and Yunfang Tai,\
+    Simulation** (in Chinese), *Aijun Bai* and Yunfang Tai,\
     *National University Student Innovation Program, Jun 2009.*
     \[[pdf](publications/USTC09-BaiTai.pdf)\]
--   **Research on MDP/POMDP Based Agent Planning**, *Aijun Bai*,\
+-   **Research on MDP/POMDP Based Agent Planning** (in Chinese), *Aijun Bai*,\
     *Bachelor Thesis of USTC, Jun 2009.*
     \[[pdf](publications/USTC09-Bai.pdf)\]
--   **Applications of Some Intelligent Algorithms on Reversi Game**,
+-   **Applications of Some Intelligent Algorithms on Reversi Game** (in Chinese),
     *Aijun Bai*,\
     *Undergraduates Research Program of USTC, Oct 2007.*
     \[[pdf](publications/USTC07-Bai.pdf)\]
@@ -296,12 +296,12 @@ Slides
     Oct 2011.* \[[pdf](slides/USTC3.pdf)\]
 -   **Active Reinforcement Learning**, *Aijun Bai*, *USTC, Sep 2011.*
     \[[pdf](slides/USTC1.pdf)\]
--   **Introduction to WrightEagleBASE (in Chinese)**, *Aijun Bai*, *USTC, Aug 2010.*
+-   **Introduction to WrightEagleBASE** (in Chinese), *Aijun Bai*, *USTC, Aug 2010.*
     \[[pdf](slides/Introduction-to-WrightEagleBASE-Bai.pdf)\]
--   **Introduction to Soccer Simulation 2D (in Chinese)**, *Aijun Bai*, *USTC,
+-   **Introduction to Soccer Simulation 2D** (in Chinese), *Aijun Bai*, *USTC,
     Aug 2010.*
     \[[pdf](slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf)\]
--   **Introduction to GNU/Linux (in Chinese)**, *Aijun Bai*, *USTC, Dec 2007.*
+-   **Introduction to GNU/Linux** (in Chinese), *Aijun Bai*, *USTC, Dec 2007.*
     \[[pdf](slides/Introduce_to_Linux-Bai.pdf)\]
 
 \
