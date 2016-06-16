@@ -92,12 +92,6 @@ Publications
     \[[bib](publications/NIPS13-Bai.bib)\]
     \[[poster](publications/NIPS13-Bai_poster.pdf)\]
     \[[code](https://github.com/aijunbai/thompson-sampling)\]
--   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
-    Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
-    *Robot Competition of International Joint Conference on Artificial
-    Intelligence (IJCAI), Beijing, China, 2013.*
-    \[[pdf](publications/IJCAI13-Lu.pdf)\]
-    \[[bib](publications/IJCAI13-Lu.bib)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in
@@ -107,13 +101,6 @@ Publications
     \[[slides](slides/LNAI12-Bai_slides.pdf)\]\
     **BEST PAPER AWARD NOMINEE** at RoboCup 2012
     International Symposium.
--   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
-    Bai*, Feng Wu, and Xiaoping Chen,\
-    *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
-    (ARMS), Valencia, Spain, June 2012.*
-    \[[pdf](publications/ARMS12-Bai.pdf)\]
-    \[[bib](publications/ARMS12-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/maxq-op)\]
 -   **Online Planning for Large MDPs with MAXQ Decomposition** (Extended
     Abstract), *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
     *Proceedings of the 11th International Conference on Autonomous
@@ -129,6 +116,48 @@ Publications
     \[[pdf](publications/LNAI11-Bai.pdf)\]
     \[[bib](publications/LNAI11-Bai.bib)\]
     \[[code](https://github.com/wrighteagle2d/wrighteaglebase)\]
+
+\
+
+
+Technical Reports
+=================
+
+-   **Markov Theory based Planning and Sensing under Uncertainty**,
+    *Aijun Bai*,\
+    *Ph.D. Thesis of USTC, Sep 2014.*
+    \[[pdf](publications/USTC14-Bai.pdf)\]
+    \[[slides](slides/USTC14-Bai_slides.pdf)\]
+-   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
+    Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
+    *Robot Competition of International Joint Conference on Artificial
+    Intelligence (IJCAI), Beijing, China, 2013.*
+    \[[pdf](publications/IJCAI13-Lu.pdf)\]
+-   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
+    Bai*, Feng Wu, and Xiaoping Chen,\
+    *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
+    (ARMS), Valencia, Spain, June 2012.*
+    \[[pdf](publications/ARMS12-Bai.pdf)\]
+    \[[code](https://github.com/aijunbai/maxq-op)\]
+-   **Bridging the Gap between AI Planning and Simulation 2D: A
+    DEC-POMDP Perspective**, Feng Wu, *Aijun Bai*, and Xiaoping Chen,\
+    *Technical Report, University of Science and Technology of China,
+    Nov 2011* \[[pdf](publications/USTC11-Wu.pdf)\]
+-   **Report on RoboCup Federation Project “the Research Challenge”**,
+    *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
+    *The RoboCup Federation Project, Mar 2011.*
+    \[[pdf](publications/RoboCup11-Bai.pdf)\]
+-   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
+    Simulation** , *Aijun Bai* and Yunfang Tai,\
+    *National University Student Innovation Program, Jun 2009.*
+    \[[pdf](publications/USTC09-BaiTai.pdf)\]
+-   **Research on MDP/POMDP Based Agent Planning**, *Aijun Bai*,\
+    *Bachelor Thesis of USTC, Jun 2009.*
+    \[[pdf](publications/USTC09-Bai.pdf)\]
+-   **Applications of Some Intelligent Algorithms on Reversi Game**,
+    *Aijun Bai*,\
+    *Undergraduates Research Program of USTC, Oct 2007.*
+    \[[pdf](publications/USTC07-Bai.pdf)\]
 
 \
 
@@ -214,40 +243,6 @@ Scholarships
 \
 
 
-
-Technical Reports
-=================
-
--   **Markov Theory based Planning and Sensing under Uncertainty**,
-    *Aijun Bai*,\
-    *Ph.D. Thesis of USTC, Sep 2014.*
-    \[[pdf](publications/USTC14-Bai.pdf)\]
-    \[[bib](publications/USTC14-Bai.bib)\]
-    \[[slides](slides/USTC14-Bai_slides.pdf)\]
--   **Bridging the Gap between AI Planning and Simulation 2D: A
-    DEC-POMDP Perspective**, Feng Wu, *Aijun Bai*, and Xiaoping Chen,\
-    *Technical Report, University of Science and Technology of China,
-    Nov 2011* \[[pdf](publications/USTC11-Wu.pdf)\]
--   **Report on RoboCup Federation Project “the Research Challenge”**,
-    *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
-    *The RoboCup Federation Project, Mar 2011.*
-    \[[pdf](publications/RoboCup11-Bai.pdf)\]
--   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
-    Simulation** , *Aijun Bai* and Yunfang Tai,\
-    *National University Student Innovation Program, Jun 2009.*
-    \[[pdf](publications/USTC09-BaiTai.pdf)\]
--   **Research on MDP/POMDP Based Agent Planning**, *Aijun Bai*,\
-    *Bachelor Thesis of USTC, Jun 2009.*
-    \[[pdf](publications/USTC09-Bai.pdf)\]
--   **Applications of Some Intelligent Algorithms on Reversi Game**,
-    *Aijun Bai*,\
-    *Undergraduates Research Program of USTC, Oct 2007.*
-    \[[pdf](publications/USTC07-Bai.pdf)\]
-
-\
-
-
-
 Slides
 =====
 
@@ -304,7 +299,6 @@ Slides
     \[[pdf](slides/Introduce_to_Linux-Bai.pdf)\]
 
 \
-
 
 
 Projects
