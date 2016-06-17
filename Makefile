@@ -7,6 +7,7 @@ all: header.html body.md footer.html
 	cd ${workspace}/research-statement; make dist
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
+	sed -i 's|href="http|target="_blank" href="http|g' index.html
 	cat status.md body.md > README.md
 
 clean:
