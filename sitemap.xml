@@ -1,279 +1,282 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
-<url>
-  <loc>https://aijunbai.github.io/</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/AijunBai-CV.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/AijunBai-RS.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/IJCAI16-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/TIST15-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/TIST15-Bai_app.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/ICAPS15-Zhang.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/SoCS15-Zhang.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/AAAI14-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/ICAPS14-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/ICAPS14-Bai_slides.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/NIPS13-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/NIPS13-Bai_poster.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/LNAI12-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/LNAI12-Bai_slides.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/AAMAS12-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/LNAI11-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/USTC14-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC14-Bai_slides.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/IJCAI13-Lu.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/ARMS12-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/USTC11-Wu.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/RoboCup11-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/USTC09-BaiTai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/USTC09-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/publications/USTC07-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/RoboCup12-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Apple.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Berkeley2.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Berkeley.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Alibaba2.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Alibaba1.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/CMU2.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/CMU3.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/CMU.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/CMU4.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC5.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC2.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC4.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC6.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC3.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/USTC1.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Introduction-to-WrightEagleBASE-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aijunbai.github.io/slides/Introduce_to_Linux-Bai.pdf</loc>
-  <lastmod>2016-06-22T01:11:06+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
+  <url>
+       <loc>https://aijunbai.github.io/</loc>
+       <lastmod>2016-06-22T01:25:25+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/AijunBai-CV.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/AijunBai-RS.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/IJCAI16-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/TIST15-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/TIST15-Bai_app.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/ICAPS15-Zhang.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/SoCS15-Zhang.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/AAAI14-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/ICAPS14-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/ICAPS14-Bai_slides.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/NIPS13-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/NIPS13-Bai_poster.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/LNAI12-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/LNAI12-Bai_slides.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/AAMAS12-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/LNAI11-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/USTC14-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC14-Bai_slides.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/IJCAI13-Lu.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/ARMS12-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/USTC11-Wu.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/RoboCup11-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/USTC09-BaiTai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/USTC09-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/publications/USTC07-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/RoboCup12-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Apple.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Berkeley2.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Berkeley.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Alibaba2.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Alibaba1.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/CMU2.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/CMU3.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/CMU.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/CMU4.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC5.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC2.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC4.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC6.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC3.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/USTC1.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Introduction-to-WrightEagleBASE-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://aijunbai.github.io/slides/Introduce_to_Linux-Bai.pdf</loc>
+       <lastmod>2016-06-22T01:32:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
 </urlset>
