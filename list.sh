@@ -8,9 +8,8 @@ rm -f $OUTPUT
 touch $OUTPUT
 
 echo "<p>This is a list of files in this directory.</p>" >> $OUTPUT
-i=0
-filepath="."
 
+filepath="."
 path=`basename "$filepath"`
 echo "  <h2>$path</h2>" >> $OUTPUT
 echo "  <ul>" >> $OUTPUT

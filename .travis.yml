@@ -4,7 +4,7 @@ dist: trusty
 before_script:
     - sudo apt-get update -qq
     - sudo apt-get install -y linkchecker
-script: linkchecker --ignore-url=\!aijunbai\.github\.io http://aijunbai.github.io/
+script: linkchecker --ignore-url=\!aijunbai\.github\.io https://aijunbai.github.io/
 notifications:
     email:
         recipients: aijunbai@gmail.com
