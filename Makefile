@@ -1,10 +1,10 @@
 workspace = /home/baj/Dropbox/Workspace/github/
 
 all: header.html body.md footer.html
-	cat publications/*.bib > publications.bib
+	bibtool -ksFd publications/*.bib > publications.bib
 	cp publications.bib ${workspace}/cv
-	cd ${workspace}/cv; make dist
-	cd ${workspace}/research-statement; make dist
+	cd ${workspace}/cv; make
+	cd ${workspace}/research-statement; make
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
 	sed -i 's|href="http|target="_blank" href="http|g' index.html
