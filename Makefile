@@ -11,7 +11,7 @@ all: header.html body.md footer.html
 	cat status.md body.md > README.md
 	cp -r images style.css publications; ./list.sh publications
 	cp -r images style.css slides; ./list.sh slides
-	google-sitemapgen --config=sitemap_config.xml &
+	google-sitemapgen --config=sitemap_config.xml
 
 clean:
 	cd ${workspace}/cv; make clean
