@@ -36,6 +36,8 @@ Publications
     Artificial Intelligence (**IJCAI**), New York, 2016.*
     \[[pdf](publications/IJCAI16-Bai.pdf)\]
     \[[bib](publications/IJCAI16-Bai.bib)\]
+    \[[slides](slides/IJCAI16-Bai_slides.pdf)\]
+    \[[poster](publications/IJCAI16-Bai_poster.pdf)\]
     \[[code](https://github.com/aijunbai/hplanning)\]
 -   **Online planning for large Markov decision processes with
     hierarchical decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
@@ -241,6 +243,8 @@ Scholarships
 Slides
 =====
 
+-   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
+    *Aijun Bai*, Siddharth Srivastava, Stuart Russell, *IJCAI, Jul 2016.* \[[pdf](slides/IJCAI16-Bai_slides.pdf)\]
 -   **Building Intelligent Agents via Decision-Theoretic Planning**,
     *Aijun Bai*, *Apple, Apr 2016.* \[[pdf](slides/Apple.pdf)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
