@@ -48,14 +48,14 @@ Publications
     \[[appendix](publications/TIST15-Bai_app.pdf)\]
     \[[bib](publications/TIST15-Bai.bib)\]
     \[[code](https://github.com/aijunbai/maxq-op)\]
--   **Please: Palm Leaf Search for POMDPs with Large Observation
+-   **PLEASE: Palm Leaf Search for POMDPs with Large Observation
     Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
     *Aijun Bai*,\
     *Proceedings of the 25th International Conference on Automated
     Planning and Scheduling (**ICAPS**), 2015.*
     \[[pdf](publications/ICAPS15-Zhang.pdf)\]
     \[[bib](publications/ICAPS15-Zhang.bib)\]
--   **Please: Palm Leaf Search for POMDPs with Large Observation
+-   **PLEASE: Palm Leaf Search for POMDPs with Large Observation
     Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan
     Wei Lim, and *Aijun Bai*,\
     *Proceedings of the 8th Annual Symposium on Combinatorial Search
