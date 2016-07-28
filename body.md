@@ -39,8 +39,8 @@ Publications
     \[[slides](slides/IJCAI16-Bai_slides.pdf)\]
     \[[poster](publications/IJCAI16-Bai_poster.pdf)\]
     \[[code](https://github.com/aijunbai/hplanning)\]
--   **Online planning for large Markov decision processes with
-    hierarchical decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
+-   **Online Planning for Large Markov Decision Processes with
+    Hierarchical Decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
     *ACM Transactions on Intelligent Systems and Technology (**ACM
     TIST**),6(4):45:1–45:28, July 2015.*
@@ -48,15 +48,15 @@ Publications
     \[[appendix](publications/TIST15-Bai_app.pdf)\]
     \[[bib](publications/TIST15-Bai.bib)\]
     \[[code](https://github.com/aijunbai/maxq-op)\]
--   **Please: Palm leaf search for POMDPs with large observation
-    spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
+-   **Please: Palm Leaf Search for POMDPs with Large Observation
+    Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
     *Aijun Bai*,\
     *Proceedings of the 25th International Conference on Automated
     Planning and Scheduling (**ICAPS**), 2015.*
     \[[pdf](publications/ICAPS15-Zhang.pdf)\]
     \[[bib](publications/ICAPS15-Zhang.bib)\]
--   **Please: Palm leaf search for POMDPs with large observation
-    spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan
+-   **Please: Palm Leaf Search for POMDPs with Large Observation
+    Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan
     Wei Lim, and *Aijun Bai*,\
     *Proceedings of the 8th Annual Symposium on Combinatorial Search
     (**SoCS**), 2015.* \[[pdf](publications/SoCS15-Zhang.pdf)\]
