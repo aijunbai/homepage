@@ -120,6 +120,9 @@ Publications
 Technical Reports
 =================
 
+-   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
+    *Computing Research Repository (CoRR), 2016*
+    \[[pdf](publications/CoRR16-Bai.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
