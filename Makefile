@@ -17,7 +17,7 @@ clean:
 	cd ${workspace}/cv; make clean
 	cd ${workspace}/research-statement; make clean
 
-sync: all
+push: all
 	git add .
 	git commit -m "updated"
 	git push
