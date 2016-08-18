@@ -252,6 +252,8 @@ Scholarships
 Slides
 =====
 
+-   **An MDP-Based Winning Approach to RoboCup Soccer Simulation Challenge**,
+    *Aijun Bai*, *Faraday Future, Aug 2016.* \[[pdf](slides/FF.pdf)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
     *Aijun Bai*, Siddharth Srivastava, Stuart Russell, *IJCAI, Jul 2016.* \[[pdf](slides/IJCAI16-Bai_slides.pdf)\]
 -   **Building Intelligent Agents via Decision-Theoretic Planning**,
