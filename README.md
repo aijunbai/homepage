@@ -15,8 +15,7 @@ Experience
     Russell](https://www.cs.berkeley.edu/~russell/)
 -   **Alibaba Inc.**, Taobao.com, Hangzhou, Zhejiang, China, 2014.12 -
     2015.3\
-    Algorithm Engineer, working on semi-Markov process based user
-    behaviour modelling
+    Algorithm Engineer, working on semi-Markov process based fraud detection 
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
     Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
@@ -317,7 +316,7 @@ Projects
 -   **Hierarchical Decision-Making and Reinforcement Learning**, UC
     Berkeley, 2015 - 2016.
     \[[github](https://github.com/aijunbai/hplanning)\]
--   **Semi-Markov Process based User Behavior Modelling**, Alibaba
+-   **Semi-Markov Process based Fraud Detection**, Alibaba
     Inc, 2015.
 -   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. 
     \[[github](https://github.com/aijunbai/pfs)\]
