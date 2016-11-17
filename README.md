@@ -251,6 +251,8 @@ Scholarships
 Slides
 =====
 
+-   **Hierarchical Winning Approaches to RoboCup Soccer Simulation Challenge**,
+    *Aijun Bai*, *Adobe Research, Nov 2016.* \[[pdf](slides/Adobe.pdf)\]
 -   **An MDP-Based Winning Approach to RoboCup Soccer Simulation Challenge**,
     *Aijun Bai*, *Faraday Future, Aug 2016.* \[[pdf](slides/FF.pdf)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
