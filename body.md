@@ -7,9 +7,6 @@ Experience
     working on hierarchical decision-making and reinforcement learning,
     supervised by [Prof. Stuart
     Russell](https://www.cs.berkeley.edu/~russell/)
--   **Alibaba Inc.**, Taobao.com, Hangzhou, Zhejiang, China, 2014.12 -
-    2015.3\
-    Algorithm Engineer, working on semi-Markov process based fraud detection 
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
     Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
@@ -246,6 +243,8 @@ Slides
 =====
 
 -   **Hierarchical Winning Approaches to RoboCup Soccer Simulation Challenge**,
+    *Aijun Bai*, *Facebook Research, Dec 2016.* \[[pdf](slides/Facebook.pdf)\]
+-   **Hierarchical Winning Approaches to RoboCup Soccer Simulation Challenge**,
     *Aijun Bai*, *Adobe Research, Nov 2016.* \[[pdf](slides/Adobe.pdf)\]
 -   **An MDP-Based Winning Approach to RoboCup Soccer Simulation Challenge**,
     *Aijun Bai*, *Faraday Future, Aug 2016.* \[[pdf](slides/FF.pdf)\]
@@ -310,7 +309,7 @@ Projects
 ========
 
 -   **Hierarchical Decision-Making and Reinforcement Learning**, UC
-    Berkeley, 2015 - 2016.
+    Berkeley, 2015 - 2017.
     \[[github](https://github.com/aijunbai/hplanning)\]
 -   **Semi-Markov Process based Fraud Detection**, Alibaba
     Inc, 2015.
