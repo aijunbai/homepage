@@ -21,10 +21,10 @@ Experience
     Simmons](http://www.cs.cmu.edu/~reids/)
 -   **University of Science and Technology of China**, CSD, Hefei,
     Anhui, China, 2009.9 - 2014.11\
-    Research Assistant in [WrightEagle](http://wrighteagle.org/2d/),
+    Research Assistant in [WrightEagle](https://wrighteagle2d.github.io/),
     working on hierarchical planning for large Markov decision processes,
     supervised by [Prof. Xiaoping
-    Chen](http://www.wrighteagle.org/en/people/xpchen.php)
+    Chen](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=471)
 
 \
 
@@ -324,7 +324,7 @@ Projects
 -   **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014.
     \[[launchpad](https://launchpad.net/wrighteaglebase)\]
     \[[github](https://github.com/wrighteagle2d/wrighteaglebase)\]
-    \[[website](http://wrighteagle.org/2d/)\]
+    \[[website](https://wrighteagle2d.github.io/)\]
 -   **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC,
     2012 - 2013.
     \[[github](https://github.com/aijunbai/thompson-sampling)\]
