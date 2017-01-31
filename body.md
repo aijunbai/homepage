@@ -85,6 +85,12 @@ Publications
     \[[bib](publications/NIPS13-Bai.bib)\]
     \[[poster](publications/NIPS13-Bai_poster.pdf)\]
     \[[code](https://github.com/aijunbai/thompson-sampling)\]
+-   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
+    Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
+    *Robot Competition of International Joint Conference on Artificial
+    Intelligence (IJCAI), Beijing, China, 2013.*
+    \[[pdf](publications/IJCAI13-Lu.pdf)\]
+    \[[pdf](publications/IJCAI13-Lu.bib)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in
@@ -94,12 +100,19 @@ Publications
     \[[slides](slides/LNAI12-Bai_slides.pdf)\]\
     *Best Paper Award Nominee* at RoboCup 2012
     International Symposium.
--   **Online Planning for Large MDPs with MAXQ Decomposition**, 
+-   **Online Planning for Large MDPs with MAXQ Decomposition (Extended Abstract)**, 
     *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
     *Proceedings of the 11th International Conference on Autonomous
     Agents and Multiagent Systems (**AAMAS**), Valencia, Spain, June 2012.*
     \[[pdf](publications/AAMAS12-Bai.pdf)\]
     \[[bib](publications/AAMAS12-Bai.bib)\]
+    \[[code](https://github.com/aijunbai/maxq-op)\]
+-   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
+    Bai*, Feng Wu, and Xiaoping Chen,\
+    *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
+    (ARMS), Valencia, Spain, June 2012.*
+    \[[pdf](publications/ARMS12-Bai.pdf)\]
+    \[[pdf](publications/ARMS12-Bai.bib)\]
     \[[code](https://github.com/aijunbai/maxq-op)\]
 -   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League
     Champions**, *Aijun Bai*, Xiaoping Chen, Patrick MacAlpine, Daniel
@@ -117,24 +130,21 @@ Technical Reports
 =================
 
 -   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
-    *Computing Research Repository (CoRR), 2016*
+    *Computing Research Repository (CoRR), May 2016.*
     \[[pdf](publications/CoRR16-Bai.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
     \[[pdf](publications/USTC14-Bai.pdf)\]
     \[[slides](slides/USTC14-Bai_slides.pdf)\]
--   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
-    Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
-    *Robot Competition of International Joint Conference on Artificial
-    Intelligence (IJCAI), Beijing, China, 2013.*
-    \[[pdf](publications/IJCAI13-Lu.pdf)\]
--   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
-    Bai*, Feng Wu, and Xiaoping Chen,\
-    *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
-    (ARMS), Valencia, Spain, June 2012.*
-    \[[pdf](publications/ARMS12-Bai.pdf)\]
-    \[[code](https://github.com/aijunbai/maxq-op)\]
+-   **WrightEagle 2D Soccer Simulation Team Description 2013**, Haochong Zhang, Miao Jiang, Haibo Dai, *Aijun Bai*, and Xiaoping Chen,\
+    *RoboCup 2013, Jul 2013.*
+    \[[pdf](publications/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
+-   **WrightEagle 2D Soccer Simulation Team Description 2012**, *Aijun Bai*, Haochong Zhang, Guanghui Lu, Miao Jiang, and Xiaoping Chen,\
+    *RoboCup 2012, Jun 2012.*
+    \[[pdf](publications/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
 -   **Bridging the Gap between AI Planning and Simulation 2D: A
     DEC-POMDP Perspective**, Feng Wu, *Aijun Bai*, and Xiaoping Chen,\
     *Technical Report, University of Science and Technology of China,
@@ -143,13 +153,29 @@ Technical Reports
     *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
     *The RoboCup Federation Project, Mar 2011.*
     \[[pdf](publications/RoboCup11-Bai.pdf)\]
+-   **WrightEagle 2D Soccer Simulation Team Description 2011**, *Aijun Bai*, Guanghui Lu, Haochong Zhang, and Xiaoping Chen,\
+    *RoboCup 2011, Jul 2011.*
+    \[[pdf](publications/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
+-   **WrightEagle 2D Soccer Simulation Team Description 2010**, *Aijun Bai*, Jiang Wang, Guanghui Lu, Yuhang Wang, Haochong Zhang, Yuanchong Zhu, Ke Shi, and Xiaoping Chen,\
+    *RoboCup 2010, Jul 2010.*
+    \[[pdf](publications/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
 -   **Implementation of Some Key Techniques in WrightEagle 2D Soccer
     Simulation** (in Chinese), *Aijun Bai* and Yunfang Tai,\
     *National University Student Innovation Program, Jun 2009.*
     \[[pdf](publications/USTC09-BaiTai.pdf)\]
+-   **WrightEagle2009 2D Soccer Simulation Team Description Paper**, Ke Shi, *Aijun Bai*, Yunfang Tai, and Xiaoping Chen,\
+    *RoboCup 2009, Jun 2009.*
+    \[[pdf](publications/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
 -   **Research on MDP/POMDP Based Agent Planning** (in Chinese), *Aijun Bai*,\
     *Bachelor Thesis of USTC, Jun 2009.*
     \[[pdf](publications/USTC09-Bai.pdf)\]
+-   **WrightEagle2008 2D Soccer Simulation Team Description Paper**, Ke Shi, Tengfei Liu, *Aijun Bai*, Wenkui Wang, Changjie Fan, and Xiaoping Chen,\
+    *RoboCup 2008, Jul 2008.*
+    \[[pdf](publications/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
+    \[[bib](publications/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.bib)\]
 -   **Applications of Some Intelligent Algorithms on Reversi Game** (in Chinese),
     *Aijun Bai*,\
     *Undergraduates Research Program of USTC, Oct 2007.*
