@@ -96,7 +96,7 @@ Publications
     *Robot Competition of International Joint Conference on Artificial
     Intelligence (IJCAI), Beijing, China, 2013.*
     \[[pdf](publications/IJCAI13-Lu.pdf)\]
-    \[[pdf](publications/IJCAI13-Lu.bib)\]
+    \[[bib](publications/IJCAI13-Lu.bib)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *RoboCup-2012: Robot Soccer World Cup XVI, Lecture Notes in
@@ -118,7 +118,7 @@ Publications
     *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
     (ARMS), Valencia, Spain, June 2012.*
     \[[pdf](publications/ARMS12-Bai.pdf)\]
-    \[[pdf](publications/ARMS12-Bai.bib)\]
+    \[[bib](publications/ARMS12-Bai.bib)\]
     \[[code](https://github.com/aijunbai/maxq-op)\]
 -   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League
     Champions**, *Aijun Bai*, Xiaoping Chen, Patrick MacAlpine, Daniel
