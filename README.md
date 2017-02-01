@@ -193,7 +193,6 @@ Technical Reports
 Honors and Awards
 =================
 
--   Ali Star of Alibaba Inc., 2013.
 -   **World Champion** of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Eindhoven, The Netherlands, Jul 2013. \[[RoboCup
@@ -289,10 +288,6 @@ Slides
     \[[pdf](slides/Berkeley2.pdf)\]
 -   **Planning under Uncertainty in RoboCup Soccer Simulation 2D**,
     *Aijun Bai*, *UC Berkeley, Sep 2014.* \[[pdf](slides/Berkeley.pdf)\]
--   **Exploitation vs. Exploration**, *Aijun Bai*, *Alibaba, Dec 2014.*
-    \[[pdf](slides/Alibaba2.pdf)\]
--   **Markov Theory based Planning and Sensing under Uncertainty**,
-    *Aijun Bai*, *Alibaba, Dec 2014.* \[[pdf](slides/Alibaba1.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
     *Aijun Bai*, *USTC, Oct 2014.* \[[pdf](slides/USTC14-Bai_slides.pdf)\]
 -   **Introduction to WrightEagle RoboCup Soccer Simulation 2D Team**,
@@ -343,8 +338,6 @@ Projects
 -   **Hierarchical Decision-Making and Reinforcement Learning**, UC
     Berkeley, 2015 - 2017.
     \[[github](https://github.com/aijunbai/hplanning)\]
--   **Semi-Markov Process based Fraud Detection**, Alibaba
-    Inc, 2015.
 -   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. 
     \[[github](https://github.com/aijunbai/pfs)\]
 -   **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014.
