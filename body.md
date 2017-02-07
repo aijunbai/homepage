@@ -9,7 +9,7 @@ Experience
     Russell](https://www.cs.berkeley.edu/~russell/)
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
-    Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
+    Visiting Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
     on particle filtering based multi-object tracking, supervised by
     [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid
     Simmons](http://www.cs.cmu.edu/~reids/)
