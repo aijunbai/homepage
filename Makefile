@@ -1,7 +1,7 @@
 workspace = /home/baj/Dropbox/Workspace/github/
 
 all: header.html body.md footer.html
-	bibtool -ksFd publications/*.bib > publications.bib
+	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib ${workspace}/cv
 	cd ${workspace}/cv; make
 	cd ${workspace}/research-statement; make

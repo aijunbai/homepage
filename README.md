@@ -49,7 +49,7 @@ Publications
     \[[pdf](publications/TIST15-Bai.pdf)\]
     \[[appendix](publications/TIST15-Bai_app.pdf)\]
     \[[bib](publications/TIST15-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/maxq-op)\]
+    \[[code](https://github.com/aijunbai/taxi)\]
 -   **PLEASE: Palm Leaf Search for POMDPs with Large Observation
     Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
     *Aijun Bai*,\
@@ -112,14 +112,14 @@ Publications
     Agents and Multiagent Systems (**AAMAS**), Valencia, Spain, June 2012.*
     \[[pdf](publications/AAMAS12-Bai.pdf)\]
     \[[bib](publications/AAMAS12-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/maxq-op)\]
+    \[[code](https://github.com/aijunbai/taxi)\]
 -   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
     (ARMS), Valencia, Spain, June 2012.*
     \[[pdf](publications/ARMS12-Bai.pdf)\]
     \[[bib](publications/ARMS12-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/maxq-op)\]
+    \[[code](https://github.com/aijunbai/taxi)\]
 -   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League
     Champions**, *Aijun Bai*, Xiaoping Chen, Patrick MacAlpine, Daniel
     Urieli, Samuel Barrett, and Peter Stone,\
@@ -342,7 +342,7 @@ Projects
     2012 - 2013.
     \[[github](https://github.com/aijunbai/thompson-sampling)\]
 -   **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012.
-    \[[github](https://github.com/aijunbai/maxq-op)\]
+    \[[github](https://github.com/aijunbai/taxi)\]
 -   **Reversi Game**, USTC, 2006.
     \[[sourceforge](http://sourceforge.net/projects/reversigame/)\]
     \[[github](https://github.com/aijunbai/reversi)\]
