@@ -1,6 +1,7 @@
 workspace = /home/baj/Dropbox/Workspace/github/
 
 all: header.html body.md footer.html
+	sudo apt-get install -y pandoc bibtool google-sitemapgen
 	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib ${workspace}/cv
 	cd ${workspace}/cv; make

@@ -267,54 +267,19 @@ Scholarships
 Slides
 =====
 
--   **Hierarchical Winning Approaches to RoboCup Soccer Simulation Challenge**,
-    *Aijun Bai*, *Facebook Research, Dec 2016.* \[[pdf](slides/Facebook.pdf)\]
--   **Hierarchical Winning Approaches to RoboCup Soccer Simulation Challenge**,
-    *Aijun Bai*, *Adobe Research, Nov 2016.* \[[pdf](slides/Adobe.pdf)\]
--   **An MDP-Based Winning Approach to RoboCup Soccer Simulation Challenge**,
-    *Aijun Bai*, *Faraday Future, Aug 2016.* \[[pdf](slides/FF.pdf)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
     *Aijun Bai*, Siddharth Srivastava, Stuart Russell, *IJCAI, Jul 2016.* \[[pdf](slides/IJCAI16-Bai_slides.pdf)\]
--   **Building Intelligent Agents via Decision-Theoretic Planning**,
-    *Aijun Bai*, *Apple, Apr 2016.* \[[pdf](slides/Apple.pdf)\]
--   **Markovian State and Action Abstractions for MDPs via Hierarchical
-    MCTS**, *Aijun Bai*, *UC Berkeley, Mar 2016.*
-    \[[pdf](slides/Berkeley2.pdf)\]
--   **Planning under Uncertainty in RoboCup Soccer Simulation 2D**,
-    *Aijun Bai*, *UC Berkeley, Sep 2014.* \[[pdf](slides/Berkeley.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
     *Aijun Bai*, *USTC, Oct 2014.* \[[pdf](slides/USTC14-Bai_slides.pdf)\]
--   **Introduction to WrightEagle RoboCup Soccer Simulation 2D Team**,
-    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](slides/CMU2.pdf)\]
--   **Multi-Human Tracking, and Path Learning by Following a Person**,
-    *Aijun Bai*, *CMU, Oct 2014.* \[[pdf](slides/CMU3.pdf)\]
 -   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen, *ICAPS, Jun 2014.*
     \[[pdf](slides/ICAPS14-Bai_slides.pdf)\]
--   **Particle Filtering over Sets**, *Aijun Bai*, *CMU, Mar 2014.*
-    \[[pdf](slides/CMU.pdf)\]
--   **Intention-Aware Multi-Human Tracking via Particle Filtering over
-    Sets**, *Aijun Bai*, *CMU, Mar 2014.* \[[pdf](slides/CMU4.pdf)\]
--   **Integrated task and motion planning in belief space: A PNM/HPN
-    approach**, *Aijun Bai*, *USTC, Nov 2013.*
-    \[[pdf](slides/USTC5.pdf)\]
--   **Bayesian Mixture Modeling and Inference based Thompson Sampling in
-    Monte-Carlo Tree Search**, *Aijun Bai*, *USTC, Oct 2013.*
-    \[[pdf](slides/USTC2.pdf)\]
--   **MAXQ-OP Based Hierarchical Online Planning**, *Aijun Bai*, Feng
-    Wu, and Xiaoping Chen, *USTC, Apr 2013.* \[[pdf](slides/USTC4.pdf)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen, *RoboCup Symposium, Jun 2012.*
     \[[pdf](slides/LNAI12-Bai_slides.pdf)\]
 -   **Belief States in WrightEagleBASE**, *Aijun Bai* and Xiaoping Chen,
     *RoboCup 2D Free Challenge, Jun 2012.*
     \[[pdf](slides/RoboCup12-Bai.pdf)\]
--   **Reinforcement Learning with Human Feedback**, *Aijun Bai*, *USTC,
-    Nov 2011.* \[[pdf](slides/USTC6.pdf)\]
--   **Hierarchical Reinforcement Learning**, *Aijun Bai*, *USTC,
-    Oct 2011.* \[[pdf](slides/USTC3.pdf)\]
--   **Active Reinforcement Learning**, *Aijun Bai*, *USTC, Sep 2011.*
-    \[[pdf](slides/USTC1.pdf)\]
 -   **Introduction to WrightEagleBASE** (in Chinese), *Aijun Bai*, *USTC, Aug 2010.*
     \[[pdf](slides/Introduction-to-WrightEagleBASE-Bai.pdf)\]
 -   **Introduction to Soccer Simulation 2D** (in Chinese), *Aijun Bai*, *USTC,
