@@ -135,6 +135,9 @@ Publications
 Technical Reports
 =================
 
+-   **Posterior Sampling for Monte Carlo Planning under Uncertainty**, *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
+    *Technical Report, Apr 2017.*
+    \[[pdf](publications/UCB17-Bai.pdf)\]
 -   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
     *Computing Research Repository (CoRR), May 2016.*
     \[[pdf](publications/CoRR16-Bai.pdf)\]
