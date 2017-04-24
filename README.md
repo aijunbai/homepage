@@ -32,6 +32,14 @@ Experience
 Publications
 ============
 
+-   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**
+    (to appear), *Aijun Bai*, and Stuart Russell,\
+    *Proceedings of the Twenty-Fifth International Joint Confer-
+    ence on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19 - 25, 2017.*
+-   **Speeding Up HAM Learning by Leveraging Internal Transitions**
+    (to appear), *Aijun Bai*, and Stuart Russell,\
+    *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM
+    2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Proceedings of the 25th International Joint Conference on
