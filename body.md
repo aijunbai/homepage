@@ -35,7 +35,10 @@ Publications
     (to appear), *Aijun Bai*, and Stuart Russell,\
     *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
+    \[[pdf](publications/RLDM17-Bai.pdf)\]
     \[[bib](publications/RLDM17-Bai.bib)\]
+    \[[code1](https://github.com/aijunbai/taxi)\]
+    \[[code2](https://github.com/aijunbai/keepaway)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Proceedings of the 25th International Joint Conference on
