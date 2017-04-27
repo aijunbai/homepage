@@ -45,6 +45,7 @@ Publications
     \[[bib](publications/RLDM17-Bai.bib)\]
     \[[code1](https://github.com/aijunbai/taxi)\]
     \[[code2](https://github.com/aijunbai/keepaway)\]
+    \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Proceedings of the 25th International Joint Conference on
