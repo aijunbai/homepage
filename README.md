@@ -7,8 +7,11 @@
 Experience
 ==========
 
+-   **Microsoft AI \& Research**, Redmond, WA, United
+    States, 2017.5 - present\
+    Senior Applied Scientist in robotics and ambient computing
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
-    States, 2015.4 - present\
+    States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
     working on hierarchical decision-making and reinforcement learning,
     supervised by [Prof. Stuart
@@ -37,7 +40,7 @@ Publications
     *Proceedings of the Twenty-Fifth International Joint Confer-
     ence on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19 - 25, 2017.*
     \[[bib](publications/IJCAI17-Bai.bib)\]
--   **Speeding Up HAM Learning by Leveraging Internal Transitions**
+-   **Speeding Up HAM Learning with Internal Transitions**
     (to appear), *Aijun Bai*, and Stuart Russell,\
     *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
