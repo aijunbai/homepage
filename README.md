@@ -9,7 +9,7 @@ Experience
 
 -   **Microsoft AI \& Research**, Redmond, WA, United
     States, 2017.5 - present\
-    Senior Applied Scientist in robotics and ambient computing
+    Senior Applied Scientist, working on robotics and ambient computing
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
