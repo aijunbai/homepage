@@ -1,27 +1,21 @@
 Experience
 ==========
 
--   **Microsoft AI \& Research**, Redmond, WA, United
+-   **Microsoft**, Redmond, WA, United
     States, 2017.5 - present\
-    Senior Applied Scientist, working on robotics and ambient computing
+    Senior Applied Scientist in AI \& Research Group, working on robotics and ambient computing
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
-    working on hierarchical decision-making and reinforcement learning,
-    supervised by [Prof. Stuart
-    Russell](https://www.cs.berkeley.edu/~russell/)
+    working on hierarchical decision-making and reinforcement learning
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
     Visiting Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
-    on particle filtering based multi-object tracking, supervised by
-    [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid
-    Simmons](http://www.cs.cmu.edu/~reids/)
+    on particle filtering based multi-object tracking 
 -   **University of Science and Technology of China**, CSD, Hefei,
     Anhui, China, 2009.9 - 2014.11\
     Research Assistant in [WrightEagle](https://wrighteagle2d.github.io/),
-    working on hierarchical planning for large Markov decision processes,
-    supervised by [Prof. Xiaoping
-    Chen](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=471)
+    working on hierarchical planning for large Markov decision processes
 
 \
 
