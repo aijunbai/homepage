@@ -24,16 +24,15 @@ Publications
 ============
 
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
-    In Proceedings of 20th International Conference on Information Fusion (FUSION 2017), Xi'an, China, July 10-13, 2017.
+    *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
     \[[bib](publications/FUSION17-Bai.bib)\]
 -   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
-    *Proceedings of the Twenty-Fifth International Joint Confer-
-    ence on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19 - 25, 2017.*
+    *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
 -   **Speeding Up HAM Learning with Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
-    *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM
+    *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (**RLDM**)
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
     \[[pdf](publications/RLDM17-Bai.pdf)\]
     \[[bib](publications/RLDM17-Bai.bib)\]
@@ -102,7 +101,7 @@ Publications
 -   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
     Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
     *Robot Competition of International Joint Conference on Artificial
-    Intelligence (IJCAI), Beijing, China, 2013.*
+    Intelligence (**IJCAI**), Beijing, China, 2013.*
     \[[pdf](publications/IJCAI13-Lu.pdf)\]
     \[[bib](publications/IJCAI13-Lu.bib)\]
 -   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
