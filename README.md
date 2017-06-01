@@ -29,13 +29,16 @@ Experience
 Publications
 ============
 
--   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**
-    (to appear), *Aijun Bai*, and Stuart Russell,\
+-   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
+    In Proceedings of 20th International Conference on Information Fusion (FUSION 2017), Xi'an, China, July 10-13, 2017.
+    \[[pdf](publications/FUSION17-Bai.pdf)\]
+    \[[bib](publications/FUSION17-Bai.bib)\]
+-   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *Proceedings of the Twenty-Fifth International Joint Confer-
     ence on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19 - 25, 2017.*
+    \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
--   **Speeding Up HAM Learning with Internal Transitions**
-    (to appear), *Aijun Bai*, and Stuart Russell,\
+-   **Speeding Up HAM Learning with Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
     \[[pdf](publications/RLDM17-Bai.pdf)\]
