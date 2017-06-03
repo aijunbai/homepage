@@ -6,12 +6,12 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aijunbai.github.io/</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/AijunBai-CV.pdf</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -21,17 +21,17 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/AijunBai-RS.pdf</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:34Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/AijunBai-Resume.pdf</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/AijunBai-Resume_long.pdf</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:34Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/images/</loc>
-  <lastmod>2017-05-22T21:09:08Z</lastmod>
+  <lastmod>2017-06-02T02:20:11Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,7 +91,7 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/index.html</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -101,12 +101,12 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications.bib</loc>
-  <lastmod>2017-06-01T17:13:46Z</lastmod>
+  <lastmod>2017-06-03T19:40:32Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/</loc>
-  <lastmod>2017-06-01T16:51:09Z</lastmod>
+  <lastmod>2017-06-03T19:39:55Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
@@ -137,11 +137,6 @@
  <url>
   <loc>https://aijunbai.github.io/publications/ARMS12-Bai.pdf</loc>
   <lastmod>2016-03-25T02:39:04Z</lastmod>
-  <priority>1.0000</priority>
- </url>
- <url>
-  <loc>https://aijunbai.github.io/publications/CoRR16-Bai.pdf</loc>
-  <lastmod>2016-07-28T21:37:49Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
@@ -361,57 +356,57 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/</loc>
-  <lastmod>2017-05-22T21:34:10Z</lastmod>
+  <lastmod>2017-06-02T03:11:57Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/baj-2009.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/baj-2012.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/baj-2015.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/baj-2016.png</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/banner.gif</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/name.png</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/images/top.gif</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/index.html</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/publications/style.css</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:35Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/</loc>
-  <lastmod>2017-05-22T22:08:14Z</lastmod>
+  <lastmod>2017-06-02T04:31:08Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
@@ -456,52 +451,52 @@
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/</loc>
-  <lastmod>2017-05-22T21:24:02Z</lastmod>
+  <lastmod>2017-06-02T02:49:45Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/baj-2009.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/baj-2012.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/baj-2015.jpg</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/baj-2016.png</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/banner.gif</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/name.png</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/images/top.gif</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/index.html</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
   <loc>https://aijunbai.github.io/slides/style.css</loc>
-  <lastmod>2017-06-01T17:13:47Z</lastmod>
+  <lastmod>2017-06-03T19:40:37Z</lastmod>
   <priority>1.0000</priority>
  </url>
  <url>
