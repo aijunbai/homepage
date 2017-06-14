@@ -39,7 +39,7 @@ Publications
     \[[bib](publications/FUSION17-Bai.bib)\]
 -   **Concurrent Hierarchical Reinforcement Learning for RoboCup Keepaway**, *Aijun
     Bai*, Stuart Russell, and Xiaoping Chen,\
-    *RoboCup-2017: Robot Soccer World Cup, Lecture Notes in
+    *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
     Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
