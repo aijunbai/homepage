@@ -37,6 +37,12 @@ Publications
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
     \[[bib](publications/FUSION17-Bai.bib)\]
+-   **Concurrent Hierarchical Reinforcement Learning for RoboCup Keepaway**, *Aijun
+    Bai*, Stuart Russell, and Xiaoping Chen,\
+    *RoboCup-2017: Robot Soccer World Cup, Lecture Notes in
+    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
+    \[[pdf](publications/LNAI17-Bai.pdf)\]
+    \[[bib](publications/LNAI17-Bai.bib)\]
 -   **Speeding Up HAM Learning with Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (**RLDM**)
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
