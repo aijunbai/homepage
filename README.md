@@ -43,6 +43,11 @@ Publications
     Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
+-   **RoboCup 2D Soccer Simulation League: Evaluation Challenges**, Mikhail Prokopenko, Peter Wang, Sebastian Marian, *Aijun Bai*, Xiao Li and Xiaoping Chen,\
+    *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
+    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
+    \[[bib](publications/LNAI17-Prokopenko.pdf)\]
+    \[[bib](publications/LNAI17-Prokopenko.bib)\]
 -   **Speeding Up HAM Learning with Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (**RLDM**)
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
