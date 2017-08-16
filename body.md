@@ -27,6 +27,8 @@ Publications
     *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
+    \[[code1](https://github.com/aijunbai/taxi)\]
+    \[[code2](https://github.com/aijunbai/keepaway)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
@@ -34,12 +36,13 @@ Publications
 -   **Concurrent Hierarchical Reinforcement Learning for RoboCup Keepaway**, *Aijun
     Bai*, Stuart Russell, and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
-    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
+    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017.*
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
+    \[[code](https://github.com/aijunbai/keepaway)\]
 -   **RoboCup 2D Soccer Simulation League: Evaluation Challenges**, Mikhail Prokopenko, Peter Wang, Sebastian Marian, *Aijun Bai*, Xiao Li and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
-    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017 (to appear).*
+    Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017.*
     \[[pdf](publications/LNAI17-Prokopenko.pdf)\]
     \[[bib](publications/LNAI17-Prokopenko.bib)\]
 -   **Speeding Up HAM Learning with Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
@@ -49,7 +52,6 @@ Publications
     \[[bib](publications/RLDM17-Bai.bib)\]
     \[[code1](https://github.com/aijunbai/taxi)\]
     \[[code2](https://github.com/aijunbai/keepaway)\]
-    \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
     MCTS**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Proceedings of the 25th International Joint Conference on
