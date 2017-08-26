@@ -27,18 +27,21 @@ Publications
     *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
+    \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
     \[[code1](https://github.com/aijunbai/taxi)\]
     \[[code2](https://github.com/aijunbai/keepaway)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
     \[[bib](publications/FUSION17-Bai.bib)\]
+    \[[video](https://www.youtube.com/watch?v=M2VjS2tMNmg)\]
 -   **Concurrent Hierarchical Reinforcement Learning for RoboCup Keepaway**, *Aijun
     Bai*, Stuart Russell, and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
     Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017.*
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
+    \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
     \[[code](https://github.com/aijunbai/keepaway)\]
 -   **RoboCup 2D Soccer Simulation League: Evaluation Challenges**, Mikhail Prokopenko, Peter Wang, Sebastian Marian, *Aijun Bai*, Xiao Li and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
@@ -50,6 +53,7 @@ Publications
     2017, Ann Arbor, Michigan, USA, June 11-14, 2017.*
     \[[pdf](publications/RLDM17-Bai.pdf)\]
     \[[bib](publications/RLDM17-Bai.bib)\]
+    \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
     \[[code1](https://github.com/aijunbai/taxi)\]
     \[[code2](https://github.com/aijunbai/keepaway)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical
