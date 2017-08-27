@@ -28,8 +28,6 @@ Publications
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
-    \[[code1](https://github.com/aijunbai/taxi)\]
-    \[[code2](https://github.com/aijunbai/keepaway)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
@@ -42,7 +40,6 @@ Publications
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
-    \[[code](https://github.com/aijunbai/keepaway)\]
 -   **RoboCup 2D Soccer Simulation League: Evaluation Challenges**, Mikhail Prokopenko, Peter Wang, Sebastian Marian, *Aijun Bai*, Xiao Li and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
     Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017.*
@@ -96,7 +93,6 @@ Publications
     \[[bib](publications/AAAI14-Bai.bib)\]
     \[[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)\]
     \[[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)\]
-    \[[code](https://github.com/aijunbai/pfs)\]
 -   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, *Aijun
     Bai*, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,\
     *Proceedings of the 24th International Conference on Automated
@@ -105,7 +101,6 @@ Publications
     \[[bib](publications/ICAPS14-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=U3YeaE3g45A)\]
     \[[slides](slides/ICAPS14-Bai_slides.pdf)\]
-    \[[code](https://github.com/aijunbai/thompson-sampling)\]
 -   **Bayesian Mixture Modelling and Inference based Thompson Sampling
     in Monte-Carlo Tree Search**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
@@ -114,7 +109,6 @@ Publications
     \[[pdf](publications/NIPS13-Bai.pdf)\]
     \[[bib](publications/NIPS13-Bai.bib)\]
     \[[poster](publications/NIPS13-Bai_poster.pdf)\]
-    \[[code](https://github.com/aijunbai/thompson-sampling)\]
 -   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
     Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
     *Robot Competition of International Joint Conference on Artificial
@@ -136,14 +130,12 @@ Publications
     Agents and Multiagent Systems (**AAMAS**), Valencia, Spain, June 2012.*
     \[[pdf](publications/AAMAS12-Bai.pdf)\]
     \[[bib](publications/AAMAS12-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/taxi)\]
 -   **Online Planning for Large MDPs with MAXQ Decomposition**, *Aijun
     Bai*, Feng Wu, and Xiaoping Chen,\
     *AAMAS 2012 Autonomous Robots and Multirobot Systems Workshop
     (ARMS), Valencia, Spain, June 2012.*
     \[[pdf](publications/ARMS12-Bai.pdf)\]
     \[[bib](publications/ARMS12-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/taxi)\]
 -   **WrightEagle and UT Austin Villa: RoboCup 2011 Simulation League
     Champions**, *Aijun Bai*, Xiaoping Chen, Patrick MacAlpine, Daniel
     Urieli, Samuel Barrett, and Peter Stone,\
