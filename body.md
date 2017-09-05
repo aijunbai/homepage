@@ -7,15 +7,15 @@ Experience
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
-    working on hierarchical decision-making and reinforcement learning
+    working on hierarchical decision-making and reinforcement learning with [Prof. Stuart Russell](https://people.eecs.berkeley.edu/~russell/)
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
     Visiting Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
-    on particle filtering based multi-object tracking 
+    on particle filtering based multi-object tracking with [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid Simmions](http://www.cs.cmu.edu/~reids/)
 -   **University of Science and Technology of China**, CSD, Hefei,
     Anhui, China, 2009.9 - 2014.11\
     Research Assistant in [WrightEagle](https://wrighteagle2d.github.io/),
-    working on hierarchical planning for large Markov decision processes
+    working on hierarchical planning for large Markov decision processes with [Prof. Xiaoping Chen](http://ai.ustc.edu.cn/en/people/xpchen.php)
 
 \
 
