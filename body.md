@@ -27,6 +27,7 @@ Publications
     *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
+    \[[slides](slides/IJCAI17-Bai_slides.pptx)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
