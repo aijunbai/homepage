@@ -28,8 +28,8 @@ Publications
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
-    \[[slides1](slides/IJCAI17-Bai_slides.pptx)\]
-    \[[slides2](slides/IJCAI17-Bai_slides.pdf)\]
+    \[[slides](slides/IJCAI17-Bai_slides.pptx)\]
+    \[[code](https://github.com/aijunbai/taxi)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
