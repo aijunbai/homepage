@@ -288,6 +288,7 @@ Scholarships
 Slides
 =====
 
+-   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell, *IJCAI, Aug 2017.* \[[pptx](slides/IJCAI17-Bai_slides.pptx)\]
 -   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
     *Aijun Bai*, Siddharth Srivastava, Stuart Russell, *IJCAI, Jul 2016.* \[[pdf](slides/IJCAI16-Bai_slides.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty**,
