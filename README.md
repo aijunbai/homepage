@@ -206,6 +206,7 @@ Technical Reports
     *Aijun Bai*,\
     *Undergraduates Research Program of USTC, Oct 2007.*
     \[[pdf](publications/USTC07-Bai.pdf)\]
+    \[[code](https://github.com/aijunbai/reversi)\]
 
 \
 
