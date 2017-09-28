@@ -319,6 +319,7 @@ Projects
     Berkeley, 2015 - 2017.
     \[[hplanning](https://github.com/aijunbai/hplanning)\]
     \[[keepaway](https://github.com/aijunbai/keepaway)\]
+    \[[taxi](https://github.com/aijunbai/taxi)\]
 -   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. 
     \[[pfs](https://github.com/aijunbai/pfs)\]
 -   **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014.
