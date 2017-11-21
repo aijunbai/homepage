@@ -9,7 +9,7 @@ Experience
 
 -   **Microsoft**, Redmond, WA, United
     States, 2017.5 - present\
-    Senior Applied Scientist in AI \& Research Group, working on machine perception and congnition
+    Researcher in AI \& Research Group, working on machine perception and congnition
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
