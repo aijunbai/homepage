@@ -200,7 +200,6 @@ Technical Reports
     *Aijun Bai*,\
     *Undergraduates Research Program of USTC, Oct 2007.*
     \[[pdf](publications/USTC07-Bai.pdf)\]
-    \[[code](https://github.com/aijunbai/reversi)\]
 
 \
 
@@ -312,25 +311,4 @@ Slides
 
 \
 
-
-Projects
-========
-
--   **Hierarchical Decision-Making and Reinforcement Learning**, UC
-    Berkeley, 2015 - 2017.
-    \[[hplanning](https://github.com/aijunbai/hplanning)\]
-    \[[keepaway](https://github.com/aijunbai/keepaway)\]
-    \[[taxi](https://github.com/aijunbai/taxi)\]
--   **Multi-Human Tracking and Intention-Recognition**, CMU, 2013 - 2015. 
-    \[[pfs](https://github.com/aijunbai/pfs)\]
--   **WrightEagle Soccer Simulation 2D**, USTC, 2007 - 2014.
-    \[[wrighteaglebase](https://github.com/wrighteagle2d/wrighteaglebase)\]
-    \[[website](https://wrighteagle2d.github.io/)\]
--   **Bayesian Monte-Carlo Tree Search with Thompson Sampling**, USTC,
-    2012 - 2013.
-    \[[thompson-sampling](https://github.com/aijunbai/thompson-sampling)\]
--   **Hierarchical Online Planning for Large MDPs**, USTC, 2010 - 2012.
-    \[[taxi](https://github.com/aijunbai/taxi)\]
--   **Reversi Game**, USTC, 2006.
-    \[[reversi](https://github.com/aijunbai/reversi)\]
 

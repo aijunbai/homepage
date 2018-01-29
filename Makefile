@@ -5,7 +5,6 @@ all: header.html body.md footer.html
 	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib ${workspace}/cv
 	cd ${workspace}/cv; make
-	cd ${workspace}/research-statement; make
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
 	sed -i 's|href="http|target="_blank" href="http|g' index.html
@@ -16,7 +15,6 @@ all: header.html body.md footer.html
 
 clean:
 	cd ${workspace}/cv; make clean
-	cd ${workspace}/research-statement; make clean
 
 sync: all
 	git add .
