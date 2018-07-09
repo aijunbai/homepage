@@ -204,7 +204,6 @@ Honors and Awards
 -   **First Place** of RoboCup Soccer Simulation 2D Free Challenge,
     Mexico City, Mexico, Jun 2012. \[[RoboCup
     2012](http://www.robocup2012.org/)\]
-    \[[slides](slides/RoboCup12-Bai.pdf)\]
 -   Second Place of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Mexico City, Mexico, Jun 2012. \[[RoboCup
