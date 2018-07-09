@@ -23,13 +23,14 @@ Experience
 Publications
 ============
 
+-   **Posterior Sampling for Monte Carlo Planning under Uncertainty**, *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
+    *Applied Intelligence, 2018.*
+    \[accepted\]
 -   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
     \[[bib](publications/IJCAI17-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
-    \[[slides](slides/IJCAI17-Bai_slides.pptx)\]
-    \[[code](https://github.com/aijunbai/taxi)\]
 -   **Multi-Object Tracking and Identification via Particle Filtering over Sets**, *Aijun Bai*, Reid Simmons, and Manuela Veloso,\
     *Proceedings of 20th International Conference on Information Fusion (**FUSION**), Xi'an, China, July 10-13, 2017.*
     \[[pdf](publications/FUSION17-Bai.pdf)\]
@@ -42,7 +43,6 @@ Publications
     \[[pdf](publications/LNAI17-Bai.pdf)\]
     \[[bib](publications/LNAI17-Bai.bib)\]
     \[[video](https://www.youtube.com/watch?v=ob249J8Kxi0)\]
-    \[[code](https://github.com/aijunbai/keepaway)\]
 -   **RoboCup 2D Soccer Simulation League: Evaluation Challenges**, Mikhail Prokopenko, Peter Wang, Sebastian Marian, *Aijun Bai*, Xiao Li and Xiaoping Chen,\
     *RoboCup-2017: Robot Soccer World Cup XX, Lecture Notes in
     Artificial Intelligence (**RoboCup**), Springer Verlag, Berlin, 2017.*
@@ -60,9 +60,6 @@ Publications
     Artificial Intelligence (**IJCAI**), New York, 2016.*
     \[[pdf](publications/IJCAI16-Bai.pdf)\]
     \[[bib](publications/IJCAI16-Bai.bib)\]
-    \[[slides](slides/IJCAI16-Bai_slides.pdf)\]
-    \[[poster](publications/IJCAI16-Bai_poster.pdf)\]
-    \[[code](https://github.com/aijunbai/hplanning)\]
 -   **Online Planning for Large Markov Decision Processes with
     Hierarchical Decomposition**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
@@ -71,7 +68,6 @@ Publications
     \[[pdf](publications/TIST15-Bai.pdf)\]
     \[[appendix](publications/TIST15-Bai_app.pdf)\]
     \[[bib](publications/TIST15-Bai.bib)\]
-    \[[code](https://github.com/aijunbai/taxi)\]
 -   **PLEASE: Palm Leaf Search for POMDPs with Large Observation
     Spaces**, Zongzhang Zhang, David Hsu, Wee Sun Lee, Zhan Wei Lim, and
     *Aijun Bai*,\
@@ -92,16 +88,12 @@ Publications
     Arlington, Virginia, United States, November 2014.*
     \[[pdf](publications/AAAI14-Bai.pdf)\]
     \[[bib](publications/AAAI14-Bai.bib)\]
-    \[[video1](https://www.youtube.com/watch?v=M2VjS2tMNmg)\]
-    \[[video2](https://www.youtube.com/watch?v=pmUpTxgAJpE)\]
 -   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, *Aijun
     Bai*, Feng Wu, Zongzhang Zhang, and Xiaoping Chen,\
     *Proceedings of the 24th International Conference on Automated
     Planning and Scheduling (**ICAPS**), Portsmouth, New Hampshire, United
     States, June 2014.* \[[pdf](publications/ICAPS14-Bai.pdf)\]
     \[[bib](publications/ICAPS14-Bai.bib)\]
-    \[[video](https://www.youtube.com/watch?v=U3YeaE3g45A)\]
-    \[[slides](slides/ICAPS14-Bai_slides.pdf)\]
 -   **Bayesian Mixture Modelling and Inference based Thompson Sampling
     in Monte-Carlo Tree Search**, *Aijun Bai*, Feng Wu, and Xiaoping
     Chen,\
@@ -109,7 +101,6 @@ Publications
     Tahoe, Nevada, United States, December 2013.*
     \[[pdf](publications/NIPS13-Bai.pdf)\]
     \[[bib](publications/NIPS13-Bai.bib)\]
-    \[[poster](publications/NIPS13-Bai_poster.pdf)\]
 -   **An Intelligent Service System with Multiple Robots**, Qiang Lu,
     Guanghui Lu, *Aijun Bai*, Dongxiang Zhang, and Xiaoping Chen,\
     *Robot Competition of International Joint Conference on Artificial
@@ -122,7 +113,6 @@ Publications
     Artificial Intelligence (**RoboCup**), Vol. 7500, Springer Verlag, Berlin, 2013.*
     \[[pdf](publications/LNAI12-Bai.pdf)\]
     \[[bib](publications/LNAI12-Bai.bib)\]
-    \[[slides](slides/LNAI12-Bai_slides.pdf)\]\
     *Best Paper Award Nominee* at RoboCup 2012
     International Symposium.
 -   **Online Planning for Large MDPs with MAXQ Decomposition (Extended Abstract)**, 
@@ -144,7 +134,6 @@ Publications
     Artificial Intelligence (**RoboCup**), Vol. 7416, Springer Verlag, Berlin, 2012.*
     \[[pdf](publications/LNAI11-Bai.pdf)\]
     \[[bib](publications/LNAI11-Bai.bib)\]
-    \[[code](https://github.com/wrighteagle2d/wrighteaglebase)\]
 
 \
 
@@ -155,14 +144,10 @@ Technical Reports
 -   **Markovian State and Action Abstractions for Markov Decision Processes via Hierarchical Monte Carlo Tree Search**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Technical Report, University of California at Berkeley, Apr 2017.*
     \[[pdf](publications/UCB17-Bai2.pdf)\]
--   **Posterior Sampling for Monte Carlo Planning under Uncertainty**, *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
-    *Technical Report, University of California at Berkeley, Apr 2017.*
-    \[[pdf](publications/UCB17-Bai.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
     \[[pdf](publications/USTC14-Bai.pdf)\]
-    \[[slides](slides/USTC14-Bai_slides.pdf)\]
 -   **WrightEagle 2D Soccer Simulation Team Description 2013**, Haochong Zhang, Miao Jiang, Haibo Dai, *Aijun Bai*, and Xiaoping Chen,\
     *RoboCup 2013, Jul 2013.*
     \[[pdf](publications/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
@@ -282,33 +267,4 @@ Scholarships
 -   Outstanding Freshman Scholarship of USTC, 2005.
 
 \
-
-
-Slides
-=====
-
--   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell, *IJCAI, Aug 2017.* \[[pptx](slides/IJCAI17-Bai_slides.pptx)\]
--   **Markovian State and Action Abstractions for MDPs via Hierarchical MCTS**, 
-    *Aijun Bai*, Siddharth Srivastava, Stuart Russell, *IJCAI, Jul 2016.* \[[pdf](slides/IJCAI16-Bai_slides.pdf)\]
--   **Markov Theory based Planning and Sensing under Uncertainty**,
-    *Aijun Bai*, *USTC, Oct 2014.* \[[pdf](slides/USTC14-Bai_slides.pdf)\]
--   **Thompson Sampling based Monte-Carlo Planning in POMDPs**, *Aijun
-    Bai*, Feng Wu, and Xiaoping Chen, *ICAPS, Jun 2014.*
-    \[[pdf](slides/ICAPS14-Bai_slides.pdf)\]
--   **Towards a Principled Solution to Simulated Robot Soccer**, *Aijun
-    Bai*, Feng Wu, and Xiaoping Chen, *RoboCup Symposium, Jun 2012.*
-    \[[pdf](slides/LNAI12-Bai_slides.pdf)\]
--   **Belief States in WrightEagleBASE**, *Aijun Bai* and Xiaoping Chen,
-    *RoboCup 2D Free Challenge, Jun 2012.*
-    \[[pdf](slides/RoboCup12-Bai.pdf)\]
--   **Introduction to WrightEagleBASE** (in Chinese), *Aijun Bai*, *USTC, Aug 2010.*
-    \[[pdf](slides/Introduction-to-WrightEagleBASE-Bai.pdf)\]
--   **Introduction to Soccer Simulation 2D** (in Chinese), *Aijun Bai*, *USTC,
-    Aug 2010.*
-    \[[pdf](slides/Introduction-to-Soccer-Simulation-2D-Bai.pdf)\]
--   **Introduction to GNU/Linux** (in Chinese), *Aijun Bai*, *USTC, Dec 2007.*
-    \[[pdf](slides/Introduce_to_Linux-Bai.pdf)\]
-
-\
-
 
