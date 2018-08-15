@@ -31,7 +31,8 @@ Publications
 
 -   **Posterior Sampling for Monte Carlo Planning under Uncertainty**, *Aijun Bai*, Feng Wu, and Xiaoping Chen,\
     *Applied Intelligence, 2018.*
-    \[accepted\]
+    \[[pdf](publications/AI18-Bai.pdf)\]
+    \[[bib](publications/AI18-Bai.bib)\]
 -   **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions**, *Aijun Bai*, and Stuart Russell,\
     *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), Melbourne, Australia, August 19 - 25, 2017.*
     \[[pdf](publications/IJCAI17-Bai.pdf)\]
