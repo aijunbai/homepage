@@ -9,7 +9,7 @@ Experience
 
 -   **Microsoft**, Redmond, WA, United
     States, 2017.5 - present\
-    Researcher in Cloud \& AI Group, working on machine perception and congnition
+    Researcher in Cloud \& AI, working on congnition intelligence
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
     Postdoctoral Researcher in [BAIR](http://bair.berkeley.edu/),
@@ -17,11 +17,11 @@ Experience
 -   **Carnegie Mellon University**, CSD, Pittsburgh, PA, United States,
     2013.12 - 2015.3\
     Visiting Research Scholar in [CORAL](http://www.cs.cmu.edu/~coral/), working
-    on particle filtering based multi-object tracking with [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid Simmions](http://www.cs.cmu.edu/~reids/)
+    on human-robot interaction and multi-object tracking with [Prof. Manuela Veloso](http://www.cs.cmu.edu/~mmv/) and [Prof. Reid Simmions](http://www.cs.cmu.edu/~reids/)
 -   **University of Science and Technology of China**, CSD, Hefei,
     Anhui, China, 2009.9 - 2014.11\
     Research Assistant in [WrightEagle](https://wrighteagle2d.github.io/),
-    working on hierarchical planning for large Markov decision processes with [Prof. Xiaoping Chen](http://ai.ustc.edu.cn/en/people/xpchen.php)
+    working on hierarchical online planning for Markov decision processes with [Prof. Xiaoping Chen](http://ai.ustc.edu.cn/en/people/xpchen.php)
 
 \
 
