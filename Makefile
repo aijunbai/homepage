@@ -1,5 +1,5 @@
 all: header.html body.md footer.html
-	#sudo apt-get install -y pandoc bibtool google-sitemapgen pdftk
+	sudo apt install -y pandoc bibtool google-sitemapgen pdftk texlive-full
 	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib cv
 	cd cv; make
