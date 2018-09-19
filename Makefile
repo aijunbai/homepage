@@ -3,7 +3,8 @@ all: header.html body.md footer.html
 	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib cv
 	cd cv; make
-	cp cv/*.pdf .
+	mv cv/*.pdf .
+	rm -f AijunBai-Resume.pdf AijunBai-Resume_long.pdf
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
 	sed -i 's|href="http|target="_blank" href="http|g' index.html
