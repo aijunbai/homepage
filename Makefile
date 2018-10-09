@@ -20,4 +20,5 @@ sync: all
 	git add .
 	git commit -m "updated"
 	git push
+	cd cv; make
 
