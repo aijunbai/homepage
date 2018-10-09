@@ -201,7 +201,7 @@ Honors and Awards
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Hefei, China, Dec 2012. \[[RoboCup China Open
-    2012](http://wrighteagle.org/rco/rco12/)\]
+    2012](http://ai.ustc.edu.cn/rco/rco12/)\]
 -   **First Place** of RoboCup Soccer Simulation 2D Free Challenge,
     Mexico City, Mexico, Jun 2012. \[[RoboCup
     2012](http://www.robocup2012.org/)\]
@@ -213,7 +213,7 @@ Honors and Awards
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Lanzhou, China, Aug 2011. \[[RoboCup China Open
-    2011 (2D)](http://wrighteagle.org/rco/rco11/2d/results.html)\]
+    2011 (2D)](http://ai.ustc.edu.cn/rco/rco11/2d/results.html)\]
 -   **World Champion** of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Istanbul, Turkey, Jul 2011. \[[RoboCup
@@ -222,7 +222,7 @@ Honors and Awards
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Ordos, China, Jul 2010. \[[RoboCup China Open
-    2010 (2D)](http://wrighteagle.org/rco/rco10/2d/results.html)\]
+    2010 (2D)](http://ai.ustc.edu.cn/rco/rco10/2d/results.html)\]
 -   Second Place of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Singapore, Singapore, Jun 2010. \[[RoboCup
@@ -231,7 +231,7 @@ Honors and Awards
 -   **Champion** of RoboCup China Open [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Dalian, China, Nov 2009. \[[RoboCup China Open
-    2009 (2D)](http://wrighteagle.org/rco/rco09/2d/results.html)\]
+    2009 (2D)](http://ai.ustc.edu.cn/rco/rco09/2d/results.html)\]
 -   **World Champion** of RoboCup [Soccer Simulation 2D
     Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
     Graz, Austria, Jun 2009. \[[RoboCup
