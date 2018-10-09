@@ -1,4 +1,4 @@
-% Copyright (C) 2012  Nicola Fontana <ntd at entidi.it>
+% Copyright (C) 2012,2014  Nicola Fontana <ntd at entidi.it>
 %
 % This program can be redistributed and/or modified under
 % the terms of the LaTeX Project Public License, either
@@ -24,14 +24,15 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{tccv}
-              [2012/11/09 v1.0
+              [2015/04/16 v1.2.2
  Two Column Curriculum Vitae]
 
-\LoadClass[10pt]{scrartcl}
+\LoadClassWithOptions{scrartcl}
 
 \setcounter{secnumdepth}{-1}
-\RequirePackage[hmargin=1.25cm,vmargin=2.5cm,twocolumn,columnsep=1.25cm]{geometry}
-\RequirePackage{bookman,etoolbox,hyperref,marvosym,needspace,tabularx,xcolor}
+\RequirePackage[hmargin=1.25cm,vmargin=1.25cm,twocolumn,columnsep=1.25cm]{geometry}
+\RequirePackage{bookman,etoolbox,needspace,pifont,tabularx,xcolor}
+\RequirePackage{hyperref}
 
 % Capitalize words of at least a minimum length (default to 3 chars).
 % The text is capitalized before being expanded.
@@ -39,19 +40,23 @@
 % This macro uses Lua to do the job but fails gracefully (that is,
 % return the text as is) if \directlua is not available.
 %
-% |[
-% \ucwords[optional: miminum length]{text}
-% ]|
+%     \ucwords
+%         [optional: miminum length]{text}
 \newcommand\ucwords[2][3]{%
     % Fails gracefully if not in LuaLaTeX
     \providecommand\directlua[1]{#2}%
     \directlua{%
-	local minlen=tonumber("#1")
-	local src="\luaescapestring{\unexpanded{#2}}"
-	local dst={}
-	for w in src:gmatch('[^\string\%s]+') do
-	    if w:len() >= minlen then w = w:sub(1,1):upper()..w:sub(2) end
-	    table.insert(dst, w)
+	local minlen = tonumber("#1")
+	local src = "\luaescapestring{\unexpanded{#2}}"
+	local dst = {}
+	% Put a % inside \directlua is tricky as hell. Use char(37)
+	% instead: still no plans for supporting non-ASCII platforms.
+	for w in src:gmatch(string.char(37) .. "S+") do
+	    if w:len() >= minlen then
+		table.insert(dst, w:sub(1,1):upper() .. w:sub(2))
+	    else
+		table.insert(dst, w)
+	    end
 	end
 	tex.print(dst)}}
 
@@ -65,34 +70,33 @@
 
 % In tccv \part must contain the subject of the curriculum vitae.
 % The command will start a new page and output in onecolumn the
-% subject (first and last name) with the hardcoded text
-% "Curriculum vitae" under it.
-\renewcommand\part[1]{%
+% subject (first and last name) with the text from the optional
+% argument underneath it
+\renewcommand\part[2][R\'esum\'e]{%
     \twocolumn[%
     \begin{center}
 	\vskip-\lastskip%
-	{\usekomafont{part} #1} \medskip\\
-	{\fontfamily{pzc}\selectfont\Huge R\'esum\'e}
+	{\usekomafont{part} #2} \medskip\\
+	{\fontfamily{pzc}\selectfont\Huge {#1}}
 	\bigskip
     \end{center}]}
 
 % Overrides the \section command to capitalize every
 % word for cosmetic purposes and draws a rule under it.
-\makeatletter
 \let\old@section\section
 \renewcommand\section[2][]{%
     \old@section[#1]{\ucwords{#2}}%
     \newdimen\raising%
     \raising=\dimexpr-0.7\baselineskip\relax%
     \vskip\raising\hrule height 0.4pt\vskip-\raising}
-\makeatother
 
 % Allow conditionals based on the job name. This can usually be set
 % from a command-line argument: check fausto.en.tex for an example.
 %
-% |[
-% \ifjob{jobname}{content if matches}{content if does not match}
-% ]|
+%     \ifjob
+%         {jobname}
+%         {content if matches}
+%         {content if does not match}
 \newcommand\ifjob[3]{%
     \edef\JOBNAME{\jobname}%
     \edef\PIVOT{\detokenize{#1}}%
@@ -101,52 +105,56 @@
 
 % Renders a personal data box:
 %
-% |[
-% \personal[optional: web site without scheme (no http:// prefix)]
-%          {address}{phone number}{email}
-% ]|
+%     \personal
+%         [url without scheme, i.e. no http:// prefix]
+%         {address}
+%         {phone number}
+%         {email}
 \newcommand\personal[4][]{%
+    \newcommand\SYMBOL[1]{\raisebox{-2pt}{\Large\ding{##1}}}%
     \needspace{0.5\textheight}%
     \newdimen\boxwidth%
     \boxwidth=\dimexpr\linewidth-2\fboxsep\relax%
-    \colorbox[HTML]{FFFFFF}{%
+    \colorbox[HTML]{F5DD9D}{%
     \begin{tabularx}{\boxwidth}{c|X}
-    \Writinghand & {#2}\smallskip\\
-    \Telefon     & {#3}\smallskip\\
-    \Letter      & \href{mailto:#4}{#4}
-    \ifstrempty{#1}{}{\smallskip\\ \Lightning & \href{http://#1}{#1}}
+    \SYMBOL{45} & {#2}\smallskip\\
+    \SYMBOL{37} & {#3}\smallskip\\
+    \SYMBOL{41} & \href{mailto:#4}{#4}
+    \ifstrempty{#1}{}{\smallskip\\ \SYMBOL{218} & \href{http://#1}{#1}}
     \end{tabularx}}}
 
 % Every \item can be followed by one or more paragraphs
 % of description:
 %
-% |[
-% \item{date range}{company}{role}
-%
-% Description of what achieved during this application.
-% ]|
+%     \item
+%         {date range}
+%         {company}
+%         {role}
+%     One or more paragraphs describing what achieved during this application.
 \newenvironment{eventlist}{%
     \newcommand*\inskip{}
     \renewcommand\item[3]{%
 	\inskip%
-	{\raggedleft\sc ##1\\[1pt]}
-	{\bf ##2}\\[2pt]
-	{\large\it ##3}
+	{\raggedleft\textsc{##1}\\[1pt]}
+	\ifstrempty{##2}{}{##2\\[2pt]}
+	{\Large\textit{##3}}
 	\medskip
 	\renewcommand\inskip{\bigskip}}}
     {\bigskip}
 
-% Use only \item inside this environment: no other macros
+% Use only \item inside this environment, no other macros
 % are allowed:
 %
-% |[
-% \item[optional: what has been achieved]{years}{subject}{notes}
-% ]|
+%     \item
+%         [what has been achieved]
+%         {years}
+%         {subject}
+%         {notes}
 \newenvironment{yearlist}{%
     \renewcommand\item[4][]{%
-	{\sc ##2} & {\bfseries ##3} \\
-	\ifstrempty{##1}{}{& {\sc ##1} \\}
-	& {\it ##4}\medskip\\}
+	\textsc{##2} & \textbf{##3} \\
+	\ifstrempty{##1}{}{& \textsc{##1} \\}
+	& \textit{##4}\medskip\\}
     \tabularx{\linewidth}{rX}}
     {\endtabularx}
 
@@ -154,9 +162,9 @@
 % Use only \item inside this environment: no other macros
 % are allowed:
 %
-% |[
-% \item{fact}{description}
-% ]|
+%     \item
+%         {fact}
+%         {description}
 \newenvironment{factlist}{%
     \newdimen\unbaseline
     \unbaseline=\dimexpr-\baselinestretch\baselineskip\relax
@@ -164,5 +172,18 @@
 	\textsc{##1} & {\raggedright ##2\medskip\\}\\[\unbaseline]}
     \tabularx{\linewidth}{rX}}
     {\endtabularx}
+
+% Avoid dealing with starred sections
+% See the following question for further details:
+% http://tex.stackexchange.com/questions/223607/does-the-bibliography-command-specify-a-section-anywhere
+\KOMAoption{bibliography}{totocnumbered}
+
+\AtEndPreamble{%
+	\@ifpackageloaded{biblatex}{%
+		\defbibheading{bibliography}[\refname]{%
+			\section{#1}%
+		}%
+	}{}%
+}
 %%
 %% End of file `tccv.cls'.
