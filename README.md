@@ -7,8 +7,11 @@
 Experience
 ==========
 
+-   **Microsoft**, Sunnyvale, CA, United
+    States, 2018.10 - present\
+    Senior Applied Scientist in AI \& Research, working on Bing search core relevance
 -   **Microsoft**, Redmond, WA, United
-    States, 2017.5 - present\
+    States, 2017.5 - 2018.10\
     Researcher in Cloud \& AI, working on congnition intelligence
 -   **University of California at Berkeley**, EECS, Berkeley, CA, United
     States, 2015.4 - 2017.5\
@@ -148,6 +151,9 @@ Publications
 Technical Reports
 =================
 
+-   **Reinforced Pipeline Optimization: Behaving Optimally with Non-Differetiabilities**, *Aijun Bai*, Dongdong Chen, Gang Hua and Lu Yuan,\
+    *Technical Report, Microsoft, Oct 2018.*
+    \[[pdf](publications/MS18-Bai.pdf)\]
 -   **Markovian State and Action Abstractions for Markov Decision Processes via Hierarchical Monte Carlo Tree Search**, *Aijun Bai*, Siddharth Srivastava, and Stuart Russell,\
     *Technical Report, University of California at Berkeley, Apr 2017.*
     \[[pdf](publications/UCB17-Bai2.pdf)\]
