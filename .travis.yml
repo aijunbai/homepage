@@ -2,12 +2,11 @@ os: linux
 sudo: required
 dist: trusty
 before_script:
-    - sudo apt-get update -qq
-    - sudo apt-get install -y linkchecker
+  - sudo apt-get update -qq
+  - sudo apt-get install -y linkchecker
 script: linkchecker --ignore-url=\!aijunbai\.github\.io https://aijunbai.github.io/
 notifications:
-    email:
-        recipients: aijunbai@gmail.com
-        on_success: change
-        on_failure: always
-
+  email:
+    recipients: aijunbai@gmail.com
+    on_success: change
+    on_failure: always

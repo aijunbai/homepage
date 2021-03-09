@@ -1,24 +1,25 @@
 body {
-   padding : 1cm 1cm 2cm 1cm;
-   font-size : 13px;
-   font-family : DejaVu Sans, DejaVu Serif, Lucida Serif, Lucida Sans, Verdana, Courier, helvetica, serif, sans-serif;
-   background : white;
-   padding: 3%; 
-   margin: 2em;
-   margin-top: 2em;      
-   margin-left: 4%;
-   margin-right: 4%;
-   border: solid orange;
+  padding: 1cm 1cm 2cm 1cm;
+  font-size: 13px;
+  font-family: DejaVu Sans, DejaVu Serif, Lucida Serif, Lucida Sans, Verdana,
+    Courier, helvetica, serif, sans-serif;
+  background: white;
+  padding: 3%;
+  margin: 2em;
+  margin-top: 2em;
+  margin-left: 4%;
+  margin-right: 4%;
+  border: solid orange;
 }
 
 html {
-    color: black; 
-    line-height: 22px;
-    font-size: 15px;
-    font-family: Corbel, Calibri, Candara, Arial;
-    background-color: #87AEC5;
-    background-image: url(images/banner.gif);
-    background-repeat: repeat-x; 
+  color: black;
+  line-height: 22px;
+  font-size: 15px;
+  font-family: Corbel, Calibri, Candara, Arial;
+  background-color: #87aec5;
+  background-image: url(images/banner.gif);
+  background-repeat: repeat-x;
 }
 
 a {
@@ -35,68 +36,83 @@ a:hover {
 }
 
 a img {
-	background:  none;
+  background: none;
 }
 
-.title { text-align: center; }
-.todo  { color: red; }
-.done { color: green; }
-.timestamp { color: grey }
-.timestamp-kwd { color: CadetBlue }
-.tag { background-color:lightblue; font-weight:normal }
-.target { background-color: lavender; }
+.title {
+  text-align: center;
+}
+.todo {
+  color: red;
+}
+.done {
+  color: green;
+}
+.timestamp {
+  color: grey;
+}
+.timestamp-kwd {
+  color: CadetBlue;
+}
+.tag {
+  background-color: lightblue;
+  font-weight: normal;
+}
+.target {
+  background-color: lavender;
+}
 
 pre {
-    color: #fff8dc;
-    padding: 0.5em;
-    margin-left: 1em;
-    margin-right: 2em;
-    white-space: pre;
-    background-color: #233b5a;
-    font-family : DejaVu Sans Mono, Monospace; 
-    font-size: 10pt;
+  color: #fff8dc;
+  padding: 0.5em;
+  margin-left: 1em;
+  margin-right: 2em;
+  white-space: pre;
+  background-color: #233b5a;
+  font-family: DejaVu Sans Mono, Monospace;
+  font-size: 10pt;
 }
 
 p {
-  margin-lefT: 0px;
-  margin-right: 0px;    
+  margin-left: 0px;
+  margin-right: 0px;
   text-align: justify;
 }
 
 p a {
-	font-family: 'Trebuchet MS';
+  font-family: "Trebuchet MS";
 }
 
 h1 {
-     color: #102C4A;
-     font-size: 24px;
+  color: #102c4a;
+  font-size: 24px;
 }
 
 h2 {
-     color: #005a9c;
-     font-size: 22px;
-     padding: 2px;
-     margin-top: 5px;
+  color: #005a9c;
+  font-size: 22px;
+  padding: 2px;
+  margin-top: 5px;
 }
 
 h3 {
-     color: #2b804c;
-     font-size: 18px;
-     padding: 2px;
-     margin-top: 5px;
+  color: #2b804c;
+  font-size: 18px;
+  padding: 2px;
+  margin-top: 5px;
 }
 
 h4 {
-     color:#d04b44;
-     font-size: 16px;
-     padding: 2px;
-     margin-top: 5px;
+  color: #d04b44;
+  font-size: 16px;
+  padding: 2px;
+  margin-top: 5px;
 }
 
 h5 {
-     color: #7b7b5a;
-     text-align: left;
-     font-size: 14px;
+  color: #7b7b5a;
+  text-align: left;
+  font-size: 14px;
 }
 
 strong em {
@@ -120,11 +136,11 @@ u {
 }
 
 .footer {
-	width: 100%;
-	text-align: center;
-    font: small Verdana,  Arial, Times New Roman, Courier New, Helvetica;
-    font-style: italic;
-    color: #aaaaaa;
+  width: 100%;
+  text-align: center;
+  font: small Verdana, Arial, Times New Roman, Courier New, Helvetica;
+  font-style: italic;
+  color: #aaaaaa;
 }
 
 table {
@@ -133,7 +149,7 @@ table {
 }
 
 hr {
-	margin-left: 2px;
+  margin-left: 2px;
 }
 
 span.comment {
@@ -142,11 +158,10 @@ span.comment {
 }
 
 img#photo {
-    /*width: 240pt;*/
-    height: 180pt;
+  /*width: 240pt;*/
+  height: 180pt;
 }
 
 img#name {
-    height: 24px;
+  height: 24px;
 }
-
