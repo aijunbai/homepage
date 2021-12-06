@@ -1,11 +1,8 @@
-resume = AijunBai-Resume.tex
 cv = AijunBai-CV.tex
-allinone = AijunBai-Resume_long.pdf
 
-all: $(cv) $(resume)
+all: $(cv)
 	latexmk -pdf $(cv)
-	latexmk -pdf $(resume)
 
-clean: 
+clean:
 	latexmk -c
 
