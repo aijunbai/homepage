@@ -3,8 +3,6 @@ all: header.html body.md footer.html
 	bibtool -KsFd publications/*.bib -o publications.bib
 	cp publications.bib cv
 	cd cv; make
-	mv cv/*.pdf .
-	cd cv; make clean
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
 	sed -i 's|href="http|target="_blank" href="http|g' index.html

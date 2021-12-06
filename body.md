@@ -1,9 +1,7 @@
 # Experience
 
-- **Microsoft**, Sunnyvale, CA, United States, 2021.3 - present\
+- **Microsoft**, Sunnyvale, CA, United States, 2018.10 - present\
   Principal Applied Scientist in Experiences \& Devices, working on Bing core search \& AI
-- **Microsoft**, Sunnyvale, CA, United States, 2018.10 - 2021.3\
-  Senior Applied Scientist in Experiences \& Devices, working on Bing core search \& AI
 - **Microsoft**, Redmond, WA, United States, 2017.5 - 2018.10\
   Researcher in Cloud \& AI, working on congnition intelligence
 - **University of California at Berkeley**, EECS, Berkeley, CA, United States, 2015.4 - 2017.5\
@@ -134,58 +132,6 @@
 
 \
 
-# Technical Reports
-
-- **Reinforced Pipeline Optimization: Behaving Optimally with Non-Differetiabilities**, _Aijun Bai_, Dongdong Chen, Gang Hua and Lu Yuan,\
-  _Technical Report, Microsoft, Oct 2018._
-  \[[pdf](publications/MS18-Bai.pdf)\]
-- **Markovian State and Action Abstractions for Markov Decision Processes via Hierarchical Monte Carlo Tree Search**, _Aijun Bai_, Siddharth Srivastava, and Stuart Russell,\
-  _Technical Report, University of California at Berkeley, Apr 2017._
-  \[[pdf](publications/UCB17-Bai2.pdf)\]
-- **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
-  _Aijun Bai_,\
-  _Ph.D. Thesis of USTC, Sep 2014._
-  \[[pdf](publications/USTC14-Bai.pdf)\]
-- **WrightEagle 2D Soccer Simulation Team Description 2013**, Haochong Zhang, Miao Jiang, Haibo Dai, _Aijun Bai_, and Xiaoping Chen,\
-  _RoboCup 2013, Jul 2013._
-  \[[pdf](publications/WrightEagle2013_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **WrightEagle 2D Soccer Simulation Team Description 2012**, _Aijun Bai_, Haochong Zhang, Guanghui Lu, Miao Jiang, and Xiaoping Chen,\
-  _RoboCup 2012, Jun 2012._
-  \[[pdf](publications/WrightEagle2012_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **Bridging the Gap between AI Planning and Simulation 2D: A
-  DEC-POMDP Perspective**, Feng Wu, _Aijun Bai_, and Xiaoping Chen,\
-  _Technical Report, University of Science and Technology of China,
-  Nov 2011_ \[[pdf](publications/USTC11-Wu.pdf)\]
-- **Report on RoboCup Federation Project “the Research Challenge”**,
-  _Aijun Bai_, Feng Wu, and Xiaoping Chen,\
-  _The RoboCup Federation Project, Mar 2011._
-  \[[pdf](publications/RoboCup11-Bai.pdf)\]
-- **WrightEagle 2D Soccer Simulation Team Description 2011**, _Aijun Bai_, Guanghui Lu, Haochong Zhang, and Xiaoping Chen,\
-  _RoboCup 2011, Jul 2011._
-  \[[pdf](publications/WrightEagle2011_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **WrightEagle 2D Soccer Simulation Team Description 2010**, _Aijun Bai_, Jiang Wang, Guanghui Lu, Yuhang Wang, Haochong Zhang, Yuanchong Zhu, Ke Shi, and Xiaoping Chen,\
-  _RoboCup 2010, Jul 2010._
-  \[[pdf](publications/WrightEagle2010_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **Implementation of Some Key Techniques in WrightEagle 2D Soccer
-  Simulation** (in Chinese), _Aijun Bai_ and Yunfang Tai,\
-  _National University Student Innovation Program, Jun 2009._
-  \[[pdf](publications/USTC09-BaiTai.pdf)\]
-- **WrightEagle2009 2D Soccer Simulation Team Description Paper**, Ke Shi, _Aijun Bai_, Yunfang Tai, and Xiaoping Chen,\
-  _RoboCup 2009, Jun 2009._
-  \[[pdf](publications/WrightEagle2009_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **Research on MDP/POMDP Based Agent Planning** (in Chinese), _Aijun Bai_,\
-  _Bachelor Thesis of USTC, Jun 2009._
-  \[[pdf](publications/USTC09-Bai.pdf)\]
-- **WrightEagle2008 2D Soccer Simulation Team Description Paper**, Ke Shi, Tengfei Liu, _Aijun Bai_, Wenkui Wang, Changjie Fan, and Xiaoping Chen,\
-  _RoboCup 2008, Jul 2008._
-  \[[pdf](publications/WrightEagle2008_2D_Soccer_Simulation_Team_Description_Paper.pdf)\]
-- **Applications of Some Intelligent Algorithms on Reversi Game** (in Chinese),
-  _Aijun Bai_,\
-  _Undergraduates Research Program of USTC, Oct 2007._
-  \[[pdf](publications/USTC07-Bai.pdf)\]
-
-\
-
 # Honors and Awards
 
 - **World Champion** of RoboCup [Soccer Simulation 2D
@@ -193,58 +139,15 @@
   Eindhoven, The Netherlands, Jul 2013. \[[RoboCup
   2013](http://www.robocup2013.org/)\]
   \[[video](https://www.youtube.com/watch?v=BoWoIc4IrtI&list=PL4BB027D8BB6A5EB3)\]
-- **Champion** of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Hefei, China, Dec 2012. \[[RoboCup China Open
-  2012](http://ai.ustc.edu.cn/rco/rco12/)\]
-- **First Place** of RoboCup Soccer Simulation 2D Free Challenge,
-  Mexico City, Mexico, Jun 2012. \[[RoboCup
-  2012](http://www.robocup2012.org/)\]
-- Second Place of RoboCup [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Mexico City, Mexico, Jun 2012. \[[RoboCup
-  2012](http://www.robocup2012.org/)\]
-  \[[video](https://www.youtube.com/watch?v=cDhSjSYPvdE&index=2&list=PL4BB027D8BB6A5EB3)\]
-- **Champion** of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Lanzhou, China, Aug 2011. \[[RoboCup China Open
-  2011 (2D)](http://ai.ustc.edu.cn/rco/rco11/2d/results.html)\]
 - **World Champion** of RoboCup [Soccer Simulation 2D
   Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
   Istanbul, Turkey, Jul 2011. \[[RoboCup
   2011](http://www.robocup2011.org/)\]
   \[[video](https://www.youtube.com/watch?v=leNDA5tzUfk&index=3&list=PL4BB027D8BB6A5EB3)\]
-- **Champion** of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Ordos, China, Jul 2010. \[[RoboCup China Open
-  2010 (2D)](http://ai.ustc.edu.cn/rco/rco10/2d/results.html)\]
-- Second Place of RoboCup [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Singapore, Singapore, Jun 2010. \[[RoboCup
-  2010](http://www.robocup2010.org/)\]
-  \[[video](https://www.youtube.com/watch?v=BVWkndHk3AE&index=4&list=PL4BB027D8BB6A5EB3)\]
-- **Champion** of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Dalian, China, Nov 2009. \[[RoboCup China Open
-  2009 (2D)](http://ai.ustc.edu.cn/rco/rco09/2d/results.html)\]
 - **World Champion** of RoboCup [Soccer Simulation 2D
   Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
   Graz, Austria, Jun 2009. \[[RoboCup
   2009](http://www.robocup2009.org/)\]
-- Second Place of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Zhongshan, China, Dec 2008. \[[RoboCup China Open
-  2008](http://ai.ustc.edu.cn/rco/rco08/)\]
-- Second Place of RoboCup [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Suzhou, China, Jul 2008. \[[RoboCup
-  2008](http://www.robocup-cn.org/)\]
-  \[[video1)](https://www.youtube.com/watch?v=XDGJMBwF1Vs&list=PL4BB027D8BB6A5EB3&index=7)\]
-  \[[video2](https://www.youtube.com/watch?v=w1c_8TWX8dY&index=6&list=PL4BB027D8BB6A5EB3)\]
-- **Champion** of RoboCup China Open [Soccer Simulation 2D
-  Competition](https://en.wikipedia.org/wiki/RoboCup_2D_Soccer_Simulation_League),
-  Jinan, China, Oct 2007. \[[RoboCup China Open
-  2007](http://ai.ustc.edu.cn/rco/rco07/)\]
 
 \
 
@@ -252,11 +155,5 @@
 
 - Early Researcher Support of ICAPS, 2014.
 - Travel Award of NIPS Foundation, 2013.
-- Glarun Scholarship of CETC-14, 2013.
-- Scholarship of China Scholarship Council (CSC), 2013.
-- Kwang-Hua Scholarship of USTC, 2012.
-- Aegon-Industrial Responsibility Scholarship of USTC, 2012.
-- Outstanding Student Scholarship of USTC, 2006, 2007, 2008.
-- Outstanding Freshman Scholarship of USTC, 2005.
 
 \
