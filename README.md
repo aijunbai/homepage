@@ -17,6 +17,13 @@
   Research Assistant in [WrightEagle](https://wrighteagle2d.github.io/),
   working on hierarchical online planning for Markov decision processes with [Prof. Xiaoping Chen](http://ai.ustc.edu.cn/en/people/xpchen.php)
 
+# Education
+
+- **University of Science and Technology of China**, Hefei, Anhui, China, 2009.9 - 2014.11\
+  Ph.D. in Computer Science
+- **University of Science and Technology of China**, Hefei, Anhui, China, 2005.9 - 2009.7\
+  Bachelor in Computer Science
+
 \
 
 # Publications
