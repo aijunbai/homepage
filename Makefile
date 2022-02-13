@@ -14,7 +14,7 @@ all: clean header.html body.md footer.html
 clean:
 	cd cv; make clean
 
-sync: all
+update: all
 	git add .
 	git commit -m "updated"
 	git push
