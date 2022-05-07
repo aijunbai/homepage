@@ -4,8 +4,10 @@
 
 # Experience
 
-- **Microsoft**, Sunnyvale, CA, United States, 2018.10 - present\
-  Principal Applied Scientist in Experiences \& Devices, working on Bing core search \& AI
+- **Google**, Mountain View, CA, United States, 2022.5 - present\
+  Software Engineer at Google Research, working on NLU, LTR, etc.
+- **Microsoft**, Sunnyvale, CA, United States, 2018.10 - 2022.5\
+  Applied Scientist in Experiences \& Devices, working on Bing core search \& AI
 - **Microsoft**, Redmond, WA, United States, 2017.5 - 2018.10\
   Researcher in Cloud \& AI, working on congnition intelligence
 - **University of California at Berkeley**, EECS, Berkeley, CA, United States, 2015.4 - 2017.5\
