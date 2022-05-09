@@ -1,7 +1,7 @@
 # Experience
 
 - **Google**, Mountain View, CA, United States, 2022.5 - present\
-  Software Engineer at Google Research, working on NLU, LTR, etc.
+  Research Engineer at Google, working on NLU, LTR, etc.
 - **Microsoft**, Sunnyvale, CA, United States, 2018.10 - 2022.5\
   Applied Scientist in Experiences \& Devices, working on Bing core search \& AI
 - **Microsoft**, Redmond, WA, United States, 2017.5 - 2018.10\
