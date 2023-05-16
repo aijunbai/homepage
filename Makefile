@@ -1,7 +1,7 @@
-all: clean header.html body.md footer.html
-	sudo apt install -y pandoc bibtool texlive-full
+all: clean cv header.html body.md footer.html
+	sudo apt install -y pandoc bibtool texlive-full python2
+	npm install --save-dev --save-exact prettier
 	bibtool -KsFd publications/*.bib -o publications.bib
-	cp publications.bib cv
 	pandoc -f markdown -t html body.md > body.html
 	cat header.html body.html footer.html > index.html
 	sed -i 's|href="http|target="_blank" href="http|g' index.html
@@ -9,7 +9,11 @@ all: clean header.html body.md footer.html
 	cp -r images style.css publications; ./bin/list.sh publications
 	cp -r images style.css slides; ./bin/list.sh slides
 	python2 ./bin/google-sitemapgen --config=sitemap_config.xml
-	prettier --write --ignore-unknown .
+	npx prettier --write --ignore-unknown .
+
+cv: cv/AijunBai-CV.tex cv/publications.bib cv/Makefile
+	cp publications.bib cv
+	cd cv; make
 
 clean:
 	cd cv; make clean
