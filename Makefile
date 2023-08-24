@@ -11,7 +11,7 @@ all: clean cv header.html body.md footer.html
 	python2 ./bin/google-sitemapgen --config=sitemap_config.xml
 	npx prettier --write --ignore-unknown .
 
-cv: cv/AijunBai-CV.tex cv/publications.bib cv/Makefile
+cv: publications.bib cv/AijunBai-CV.tex cv/publications.bib cv/Makefile
 	cp publications.bib cv
 	cd cv; make
 

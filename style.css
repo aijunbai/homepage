@@ -1,8 +1,16 @@
 body {
   padding: 1cm 1cm 2cm 1cm;
   font-size: 13px;
-  font-family: DejaVu Sans, DejaVu Serif, Lucida Serif, Lucida Sans, Verdana,
-    Courier, helvetica, serif, sans-serif;
+  font-family:
+    DejaVu Sans,
+    DejaVu Serif,
+    Lucida Serif,
+    Lucida Sans,
+    Verdana,
+    Courier,
+    helvetica,
+    serif,
+    sans-serif;
   background: white;
   padding: 3%;
   margin: 2em;
@@ -69,7 +77,9 @@ pre {
   margin-right: 2em;
   white-space: pre;
   background-color: #233b5a;
-  font-family: DejaVu Sans Mono, Monospace;
+  font-family:
+    DejaVu Sans Mono,
+    Monospace;
   font-size: 10pt;
 }
 
@@ -138,7 +148,12 @@ u {
 .footer {
   width: 100%;
   text-align: center;
-  font: small Verdana, Arial, Times New Roman, Courier New, Helvetica;
+  font:
+    small Verdana,
+    Arial,
+    Times New Roman,
+    Courier New,
+    Helvetica;
   font-style: italic;
   color: #aaaaaa;
 }
